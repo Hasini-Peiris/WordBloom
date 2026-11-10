@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "WordBloom",
+    "slug": "WordBloom",
+    "version": "1.0.0",
+    "description": "Grow your English vocabulary offline, one word at a time.",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FAF8FF",
+        "foregroundImage": "./assets/adaptive-icon.png"
+      }
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#FAF8FF",
+          "image": "./assets/images/logo.png",
+          "imageWidth": 180
+        }
+      ],
+      "expo-font"
+    ],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
