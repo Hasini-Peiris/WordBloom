@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "q-001",
+    "type": "meaning",
+    "wordId": "word-001",
+    "question": "What does the word 'routine' mean?",
+    "options": [
+      "A fixed regular set of activities performed repeatedly",
+      "An unexpected change in daily plans",
+      "A type of physical exercise",
+      "A formal written document"
+    ],
+    "answerIndex": 0,
+    "explanation": "'Routine' refers to a regular sequence of actions that someone follows consistently, such as a morning routine."
+  },
+  {
+    "id": "q-002",
+    "type": "meaning",
+    "wordId": "word-002",
+    "question": "What does 'punctual' mean?",
+    "options": [
+      "Arriving or doing something at the agreed or expected time",
+      "Being careless about time",
+      "Moving at a very fast speed",
+      "Writing carefully with correct punctuation"
+    ],
+    "answerIndex": 0,
+    "explanation": "A punctual person arrives exactly on time and does not keep others waiting."
+  },
+  {
+    "id": "q-003",
+    "type": "meaning",
+    "wordId": "word-005",
+    "question": "What is a 'budget'?",
+    "options": [
+      "A fixed spending limit based on available money",
+      "A type of travel document",
+      "A large storage container",
+      "A formal business agreement"
+    ],
+    "answerIndex": 0,
+    "explanation": "A budget is a plan for how to spend and save money within a set limit."
+  },
+  {
+    "id": "q-004",
+    "type": "meaning",
+    "wordId": "word-010",
+    "question": "What does 'commute' mean?",
+    "options": [
+      "To travel regularly between home and a place of work or study",
+      "To communicate via phone or email",
+      "To exchange one thing for another",
+      "To complete a task very quickly"
+    ],
+    "answerIndex": 0,
+    "explanation": "To commute means to travel a regular distance, usually to work or school, often daily."
+  },
+  {
+    "id": "q-005",
+    "type": "meaning",
+    "wordId": "word-015",
+    "question": "What does 'organise' mean?",
+    "options": [
+      "To arrange things in a systematic way",
+      "To create an original piece of work",
+      "To memorise important information",
+      "To argue with someone calmly"
+    ],
+    "answerIndex": 0,
+    "explanation": "To organise means to put things in order so they are easy to find or use."
+  },
+  {
+    "id": "q-006",
+    "type": "meaning",
+    "wordId": "word-026",
+    "question": "What does 'curriculum' refer to?",
+    "options": [
+      "The subjects and content taught in a course or school",
+      "A type of outdoor classroom environment",
+      "A formal certificate given after graduation",
+      "The study timetable for exams"
+    ],
+    "answerIndex": 0,
+    "explanation": "A curriculum is the full set of courses and learning content offered by a school or university."
+  },
+  {
+    "id": "q-007",
+    "type": "meaning",
+    "wordId": "word-030",
+    "question": "What does 'analyse' mean?",
+    "options": [
+      "To examine something in detail to understand it",
+      "To guess something without enough information",
+      "To create a summary of a long text",
+      "To count the number of items in a list"
+    ],
+    "answerIndex": 0,
+    "explanation": "To analyse means to study something carefully by breaking it into parts to find meaning or patterns."
+  },
+  {
+    "id": "q-008",
+    "type": "meaning",
+    "wordId": "word-035",
+    "question": "What is a 'hypothesis'?",
+    "options": [
+      "A testable prediction or explanation proposed before an experiment",
+      "The final conclusion reached after a study is complete",
+      "A type of scientific instrument",
+      "A formal written report submitted to a lecturer"
+    ],
+    "answerIndex": 0,
+    "explanation": "A hypothesis is an educated guess or prediction that can be tested through research or experiment."
+  },
+  {
+    "id": "q-009",
+    "type": "meaning",
+    "wordId": "word-051",
+    "question": "What does 'negotiate' mean?",
+    "options": [
+      "To discuss and reach an agreement through compromise",
+      "To refuse to accept any terms offered",
+      "To complete a task as quickly as possible",
+      "To write a formal business report"
+    ],
+    "answerIndex": 0,
+    "explanation": "To negotiate means to discuss different positions and find a mutually acceptable outcome."
+  },
+  {
+    "id": "q-010",
+    "type": "meaning",
+    "wordId": "word-055",
+    "question": "What does 'strategy' mean?",
+    "options": [
+      "A carefully planned approach to achieving a goal",
+      "A list of items needed for a project",
+      "A financial report prepared by accountants",
+      "An unexpected event that changes business plans"
+    ],
+    "answerIndex": 0,
+    "explanation": "A strategy is a long-term plan designed to achieve a specific goal or outcome."
+  },
+  {
+    "id": "q-011",
+    "type": "meaning",
+    "wordId": "word-076",
+    "question": "What does 'itinerary' mean?",
+    "options": [
+      "A planned schedule of travel activities and destinations",
+      "A type of international passport or visa",
+      "A document listing hotel check-in rules",
+      "An emergency travel insurance form"
+    ],
+    "answerIndex": 0,
+    "explanation": "An itinerary is a detailed plan of your journey, including places, times, and activities."
+  },
+  {
+    "id": "q-012",
+    "type": "meaning",
+    "wordId": "word-080",
+    "question": "What is a 'layover'?",
+    "options": [
+      "A stop at an intermediate location during a journey",
+      "An extra bag allowance on a flight",
+      "A delay caused by bad weather conditions",
+      "A type of hotel accommodation"
+    ],
+    "answerIndex": 0,
+    "explanation": "A layover is a planned stop between connecting flights or during a long journey."
+  },
+  {
+    "id": "q-013",
+    "type": "meaning",
+    "wordId": "word-101",
+    "question": "What does 'anxious' mean?",
+    "options": [
+      "Feeling worried, nervous, or uneasy about something uncertain",
+      "Feeling very excited and looking forward to something",
+      "Feeling relaxed and comfortable in all situations",
+      "Feeling angry due to being treated unfairly"
+    ],
+    "answerIndex": 0,
+    "explanation": "Anxious describes a state of worry or nervousness, often about something that might happen."
+  },
+  {
+    "id": "q-014",
+    "type": "meaning",
+    "wordId": "word-110",
+    "question": "What does 'melancholy' mean?",
+    "options": [
+      "A feeling of deep sadness or gloom, often without a clear reason",
+      "Extreme excitement and high energy",
+      "A sudden burst of anger",
+      "A feeling of pride after achieving something"
+    ],
+    "answerIndex": 0,
+    "explanation": "Melancholy is a thoughtful, lingering sadness — different from sharp grief, it is quiet and reflective."
+  },
+  {
+    "id": "q-015",
+    "type": "meaning",
+    "wordId": "word-141",
+    "question": "What is 'encryption'?",
+    "options": [
+      "Converting data into a coded format to prevent unauthorised access",
+      "Speeding up internet connections using compression",
+      "Creating a backup copy of important files",
+      "Connecting two devices over a wireless network"
+    ],
+    "answerIndex": 0,
+    "explanation": "Encryption scrambles data into an unreadable format; only someone with the right key can decode it."
+  },
+  {
+    "id": "q-016",
+    "type": "meaning",
+    "wordId": "word-144",
+    "question": "What is an 'algorithm'?",
+    "options": [
+      "A step-by-step set of instructions a computer follows to solve a problem",
+      "A type of programming language used for websites",
+      "A measurement of how much data a device can store",
+      "A security feature that protects online accounts"
+    ],
+    "answerIndex": 0,
+    "explanation": "An algorithm is like a recipe — a precise sequence of steps that tells a computer exactly what to do."
+  },
+  {
+    "id": "q-017",
+    "type": "meaning",
+    "wordId": "word-166",
+    "question": "What is an 'ecosystem'?",
+    "options": [
+      "A community of living organisms interacting with their physical environment",
+      "A government plan to protect endangered species",
+      "A type of weather pattern found in tropical regions",
+      "A measurement of how clean a river or lake is"
+    ],
+    "answerIndex": 0,
+    "explanation": "An ecosystem includes all living things in an area plus the air, water, and soil they interact with."
+  },
+  {
+    "id": "q-018",
+    "type": "meaning",
+    "wordId": "word-174",
+    "question": "What is 'photosynthesis'?",
+    "options": [
+      "The process by which plants use sunlight to make food and oxygen",
+      "The way animals store energy during winter hibernation",
+      "A chemical reaction that causes leaves to change colour in autumn",
+      "The process of water evaporating from plant leaves"
+    ],
+    "answerIndex": 0,
+    "explanation": "Photosynthesis uses sunlight, water, and CO₂ to produce glucose (food) and oxygen — it powers most life on Earth."
+  },
+  {
+    "id": "q-019",
+    "type": "meaning",
+    "wordId": "word-195",
+    "question": "What does 'chronic' mean in a health context?",
+    "options": [
+      "A condition that lasts a long time or recurs persistently",
+      "A sudden and severe illness that starts quickly",
+      "A disease that is easily passed from person to person",
+      "A condition that only affects elderly people"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chronic conditions (like chronic pain or chronic asthma) persist over months or years, unlike acute illnesses."
+  },
+  {
+    "id": "q-020",
+    "type": "meaning",
+    "wordId": "word-199",
+    "question": "What is 'metabolism'?",
+    "options": [
+      "The chemical processes in the body that convert food into energy",
+      "The process of absorbing vitamins from sunlight",
+      "The rate at which a person gains or loses weight",
+      "The body's ability to fight off bacterial infections"
+    ],
+    "answerIndex": 0,
+    "explanation": "Metabolism is the sum of all chemical reactions that break down food to keep your body running."
+  },
+  {
+    "id": "q-021",
+    "type": "meaning",
+    "wordId": "word-167",
+    "question": "What does 'biodiversity' mean?",
+    "options": [
+      "The variety of plant and animal life in a particular area",
+      "The number of trees planted in a city per year",
+      "A government policy on wildlife hunting",
+      "The process of studying rare species in laboratories"
+    ],
+    "answerIndex": 0,
+    "explanation": "Biodiversity measures the richness of life forms — the more species in an area, the higher its biodiversity."
+  },
+  {
+    "id": "q-022",
+    "type": "meaning",
+    "wordId": "word-063",
+    "question": "What does 'revenue' mean?",
+    "options": [
+      "The income a business receives from its sales or services",
+      "The total expenses paid by a company in one year",
+      "A formal report presented to investors",
+      "The profit earned after paying all business costs"
+    ],
+    "answerIndex": 0,
+    "explanation": "Revenue is the total money a business earns before deducting expenses — also called 'turnover' or 'top line'."
+  },
+  {
+    "id": "q-023",
+    "type": "meaning",
+    "wordId": "word-048",
+    "question": "What does 'collaborate' mean?",
+    "options": [
+      "To work jointly with others towards a shared goal",
+      "To compete with others for the same prize",
+      "To supervise a team of workers",
+      "To study alone without any assistance"
+    ],
+    "answerIndex": 0,
+    "explanation": "To collaborate means to work together — combining skills and ideas to achieve something better than you could alone."
+  },
+  {
+    "id": "q-024",
+    "type": "meaning",
+    "wordId": "word-183",
+    "question": "What is a 'symptom'?",
+    "options": [
+      "A sign or indication of a disease experienced by a patient",
+      "A type of medical test used to detect illness",
+      "A medication prescribed by a doctor",
+      "A formal diagnosis written in a patient's file"
+    ],
+    "answerIndex": 0,
+    "explanation": "Symptoms are what a patient feels or notices — like fever, pain, or fatigue — that signal an underlying condition."
+  },
+  {
+    "id": "q-025",
+    "type": "meaning",
+    "wordId": "word-192",
+    "question": "What does 'wellness' mean?",
+    "options": [
+      "The active pursuit of activities and choices that lead to holistic health",
+      "The absence of any diagnosed medical condition",
+      "A type of physical fitness test used in hospitals",
+      "A government health insurance programme"
+    ],
+    "answerIndex": 0,
+    "explanation": "Wellness goes beyond the absence of illness — it includes mental, emotional, and social health too."
+  },
+  {
+    "id": "q-026",
+    "type": "synonym",
+    "wordId": "word-003",
+    "question": "Which word is closest in meaning to 'chore'?",
+    "options": [
+      "Task",
+      "Reward",
+      "Holiday",
+      "Achievement"
+    ],
+    "answerIndex": 0,
+    "explanation": "A chore is a regular, often tedious task — 'task' or 'duty' are close synonyms."
+  },
+  {
+    "id": "q-027",
+    "type": "synonym",
+    "wordId": "word-007",
+    "question": "Which word is closest in meaning to 'frugal'?",
+    "options": [
+      "Thrifty",
+      "Generous",
+      "Extravagant",
+      "Wasteful"
+    ],
+    "answerIndex": 0,
+    "explanation": "Frugal means careful about spending money — 'thrifty' is a close synonym, while 'extravagant' is its opposite."
+  },
+  {
+    "id": "q-028",
+    "type": "synonym",
+    "wordId": "word-012",
+    "question": "Which word is closest in meaning to 'etiquette'?",
+    "options": [
+      "Manners",
+      "Rudeness",
+      "Argument",
+      "Fashion"
+    ],
+    "answerIndex": 0,
+    "explanation": "Etiquette refers to proper social behaviour and manners — the unwritten rules of polite society."
+  },
+  {
+    "id": "q-029",
+    "type": "synonym",
+    "wordId": "word-027",
+    "question": "Which word is closest in meaning to 'diligent'?",
+    "options": [
+      "Hardworking",
+      "Lazy",
+      "Distracted",
+      "Brilliant"
+    ],
+    "answerIndex": 0,
+    "explanation": "Diligent means putting in careful and consistent effort — 'hardworking' or 'industrious' are close synonyms."
+  },
+  {
+    "id": "q-030",
+    "type": "synonym",
+    "wordId": "word-033",
+    "question": "Which word is closest in meaning to 'comprehend'?",
+    "options": [
+      "Understand",
+      "Forget",
+      "Reject",
+      "Memorise"
+    ],
+    "answerIndex": 0,
+    "explanation": "To comprehend something is to understand it fully — the noun form is 'comprehension'."
+  },
+  {
+    "id": "q-031",
+    "type": "synonym",
+    "wordId": "word-052",
+    "question": "Which word is closest in meaning to 'professional'?",
+    "options": [
+      "Skilled",
+      "Amateur",
+      "Inexperienced",
+      "Informal"
+    ],
+    "answerIndex": 0,
+    "explanation": "Professional means competent and skilled in a particular field — an amateur does something for fun without formal training."
+  },
+  {
+    "id": "q-032",
+    "type": "synonym",
+    "wordId": "word-058",
+    "question": "Which word is closest in meaning to 'productive'?",
+    "options": [
+      "Efficient",
+      "Idle",
+      "Disorganised",
+      "Confused"
+    ],
+    "answerIndex": 0,
+    "explanation": "Productive means achieving a good amount of results — 'efficient' and 'fruitful' are close synonyms."
+  },
+  {
+    "id": "q-033",
+    "type": "synonym",
+    "wordId": "word-077",
+    "question": "Which word is closest in meaning to 'explore'?",
+    "options": [
+      "Discover",
+      "Avoid",
+      "Return",
+      "Rest"
+    ],
+    "answerIndex": 0,
+    "explanation": "To explore means to travel or investigate — 'discover' and 'venture' are close synonyms."
+  },
+  {
+    "id": "q-034",
+    "type": "synonym",
+    "wordId": "word-085",
+    "question": "Which word is closest in meaning to 'scenic'?",
+    "options": [
+      "Picturesque",
+      "Dull",
+      "Industrial",
+      "Crowded"
+    ],
+    "answerIndex": 0,
+    "explanation": "Scenic describes something with beautiful natural views — 'picturesque' and 'breathtaking' are close synonyms."
+  },
+  {
+    "id": "q-035",
+    "type": "synonym",
+    "wordId": "word-102",
+    "question": "Which word is closest in meaning to 'content'?",
+    "options": [
+      "Satisfied",
+      "Miserable",
+      "Furious",
+      "Envious"
+    ],
+    "answerIndex": 0,
+    "explanation": "Content (adjective) means peacefully satisfied — 'pleased' and 'at ease' are close synonyms."
+  },
+  {
+    "id": "q-036",
+    "type": "synonym",
+    "wordId": "word-108",
+    "question": "Which word is closest in meaning to 'optimistic'?",
+    "options": [
+      "Hopeful",
+      "Pessimistic",
+      "Doubtful",
+      "Fearful"
+    ],
+    "answerIndex": 0,
+    "explanation": "Optimistic means expecting positive outcomes — 'hopeful' and 'positive' are close synonyms."
+  },
+  {
+    "id": "q-037",
+    "type": "synonym",
+    "wordId": "word-130",
+    "question": "Which word is closest in meaning to 'internet'?",
+    "options": [
+      "Network",
+      "Database",
+      "Software",
+      "Algorithm"
+    ],
+    "answerIndex": 0,
+    "explanation": "The internet is a global network — 'network' and 'web' are the closest synonyms in everyday usage."
+  },
+  {
+    "id": "q-038",
+    "type": "synonym",
+    "wordId": "word-137",
+    "question": "Which word is closest in meaning to 'software'?",
+    "options": [
+      "Application",
+      "Hardware",
+      "Device",
+      "Battery"
+    ],
+    "answerIndex": 0,
+    "explanation": "Software is the intangible programs on a device — 'application' or 'program' are close synonyms. 'Hardware' is the opposite."
+  },
+  {
+    "id": "q-039",
+    "type": "synonym",
+    "wordId": "word-146",
+    "question": "Which word is closest in meaning to 'automate'?",
+    "options": [
+      "Mechanise",
+      "Personalise",
+      "Complicate",
+      "Delay"
+    ],
+    "answerIndex": 0,
+    "explanation": "To automate is to make a process run by itself — 'mechanise' and 'systematise' are close synonyms."
+  },
+  {
+    "id": "q-040",
+    "type": "synonym",
+    "wordId": "word-158",
+    "question": "Which word is closest in meaning to 'protect'?",
+    "options": [
+      "Safeguard",
+      "Destroy",
+      "Expose",
+      "Neglect"
+    ],
+    "answerIndex": 0,
+    "explanation": "To protect means to keep safe — 'safeguard', 'defend', and 'preserve' are close synonyms."
+  },
+  {
+    "id": "q-041",
+    "type": "synonym",
+    "wordId": "word-162",
+    "question": "Which word is closest in meaning to 'conserve'?",
+    "options": [
+      "Preserve",
+      "Waste",
+      "Consume",
+      "Ignore"
+    ],
+    "answerIndex": 0,
+    "explanation": "To conserve means to protect from waste or loss — 'preserve' and 'sustain' are close synonyms."
+  },
+  {
+    "id": "q-042",
+    "type": "synonym",
+    "wordId": "word-178",
+    "question": "Which word is closest in meaning to 'exercise'?",
+    "options": [
+      "Workout",
+      "Rest",
+      "Nap",
+      "Feast"
+    ],
+    "answerIndex": 0,
+    "explanation": "Exercise is physical activity for health — 'workout', 'training', and 'activity' are close synonyms."
+  },
+  {
+    "id": "q-043",
+    "type": "synonym",
+    "wordId": "word-188",
+    "question": "Which word is closest in meaning to 'recover'?",
+    "options": [
+      "Heal",
+      "Worsen",
+      "Collapse",
+      "Ignore"
+    ],
+    "answerIndex": 0,
+    "explanation": "To recover is to return to good health — 'heal', 'recuperate', and 'bounce back' are close synonyms."
+  },
+  {
+    "id": "q-044",
+    "type": "synonym",
+    "wordId": "word-191",
+    "question": "Which word is closest in meaning to 'immune'?",
+    "options": [
+      "Resistant",
+      "Vulnerable",
+      "Infected",
+      "Weak"
+    ],
+    "answerIndex": 0,
+    "explanation": "To be immune is to be protected against a disease — 'resistant' and 'invulnerable' are close synonyms."
+  },
+  {
+    "id": "q-045",
+    "type": "synonym",
+    "wordId": "word-194",
+    "question": "Which word is closest in meaning to 'therapy'?",
+    "options": [
+      "Treatment",
+      "Illness",
+      "Symptom",
+      "Diagnosis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Therapy is a form of treatment — 'treatment', 'counselling', and 'rehabilitation' are close synonyms."
+  },
+  {
+    "id": "q-046",
+    "type": "synonym",
+    "wordId": "word-169",
+    "question": "Which word is closest in meaning to 'sustainable'?",
+    "options": [
+      "Eco-friendly",
+      "Harmful",
+      "Wasteful",
+      "Non-renewable"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sustainable means able to continue without damaging the environment — 'eco-friendly' and 'viable' are close synonyms."
+  },
+  {
+    "id": "q-047",
+    "type": "synonym",
+    "wordId": "word-064",
+    "question": "Which word is closest in meaning to 'entrepreneur'?",
+    "options": [
+      "Business founder",
+      "Employee",
+      "Customer",
+      "Competitor"
+    ],
+    "answerIndex": 0,
+    "explanation": "An entrepreneur starts and runs their own business — 'founder', 'innovator', and 'self-starter' are close synonyms."
+  },
+  {
+    "id": "q-048",
+    "type": "synonym",
+    "wordId": "word-038",
+    "question": "Which word is closest in meaning to 'motivate'?",
+    "options": [
+      "Inspire",
+      "Discourage",
+      "Confuse",
+      "Exhaust"
+    ],
+    "answerIndex": 0,
+    "explanation": "To motivate is to give someone a reason to act — 'inspire', 'encourage', and 'drive' are close synonyms."
+  },
+  {
+    "id": "q-049",
+    "type": "synonym",
+    "wordId": "word-116",
+    "question": "Which word is closest in meaning to 'resilient'?",
+    "options": [
+      "Tough",
+      "Fragile",
+      "Sensitive",
+      "Careless"
+    ],
+    "answerIndex": 0,
+    "explanation": "Resilient means able to recover from difficulties — 'tough', 'adaptable', and 'strong' are close synonyms."
+  },
+  {
+    "id": "q-050",
+    "type": "synonym",
+    "wordId": "word-149",
+    "question": "Which word is closest in meaning to 'synchronize'?",
+    "options": [
+      "Align",
+      "Conflict",
+      "Separate",
+      "Delete"
+    ],
+    "answerIndex": 0,
+    "explanation": "To synchronise means to coordinate timing or data — 'align', 'coordinate', and 'match' are close synonyms."
+  },
+  {
+    "id": "q-051",
+    "type": "fill-blank",
+    "wordId": "word-004",
+    "question": "She was so ___ after the long hike that she went straight to bed.",
+    "options": [
+      "exhausted",
+      "energetic",
+      "motivated",
+      "cheerful"
+    ],
+    "answerIndex": 0,
+    "explanation": "Exhausted means completely drained of energy — the opposite of energetic."
+  },
+  {
+    "id": "q-052",
+    "type": "fill-blank",
+    "wordId": "word-008",
+    "question": "The hotel's customer service team was very ___, helping us with every request.",
+    "options": [
+      "courteous",
+      "rude",
+      "careless",
+      "absent"
+    ],
+    "answerIndex": 0,
+    "explanation": "Courteous means politely helpful and respectful — the opposite of rude."
+  },
+  {
+    "id": "q-053",
+    "type": "fill-blank",
+    "wordId": "word-017",
+    "question": "The teacher asked the class to ___ their assignments and correct any mistakes.",
+    "options": [
+      "revise",
+      "ignore",
+      "delete",
+      "copy"
+    ],
+    "answerIndex": 0,
+    "explanation": "To revise means to review and improve your work — a key part of the writing process."
+  },
+  {
+    "id": "q-054",
+    "type": "fill-blank",
+    "wordId": "word-022",
+    "question": "He made a ___ decision without thinking about the long-term consequences.",
+    "options": [
+      "hasty",
+      "careful",
+      "calculated",
+      "wise"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hasty means done too quickly and without proper thought — the opposite of careful or calculated."
+  },
+  {
+    "id": "q-055",
+    "type": "fill-blank",
+    "wordId": "word-029",
+    "question": "The professor gave a clear ___ of the main concepts at the start of the lecture.",
+    "options": [
+      "overview",
+      "question",
+      "complaint",
+      "silence"
+    ],
+    "answerIndex": 0,
+    "explanation": "An overview is a general summary or introduction that covers the key points of a topic."
+  },
+  {
+    "id": "q-056",
+    "type": "fill-blank",
+    "wordId": "word-040",
+    "question": "The students worked in groups to ___ ideas for their science project.",
+    "options": [
+      "brainstorm",
+      "ignore",
+      "erase",
+      "copy"
+    ],
+    "answerIndex": 0,
+    "explanation": "To brainstorm is to generate many ideas quickly as a group, without immediately judging them."
+  },
+  {
+    "id": "q-057",
+    "type": "fill-blank",
+    "wordId": "word-053",
+    "question": "The marketing team developed a new ___ to attract younger customers.",
+    "options": [
+      "strategy",
+      "obstacle",
+      "complaint",
+      "salary"
+    ],
+    "answerIndex": 0,
+    "explanation": "A strategy is a carefully planned approach designed to achieve a specific business goal."
+  },
+  {
+    "id": "q-058",
+    "type": "fill-blank",
+    "wordId": "word-059",
+    "question": "He was given a great deal of ___ to make decisions without asking his manager.",
+    "options": [
+      "autonomy",
+      "restriction",
+      "punishment",
+      "confusion"
+    ],
+    "answerIndex": 0,
+    "explanation": "Autonomy means the freedom to act independently and make your own decisions."
+  },
+  {
+    "id": "q-059",
+    "type": "fill-blank",
+    "wordId": "word-078",
+    "question": "The tour guide was very ___ and helped us explore the city's hidden gems.",
+    "options": [
+      "knowledgeable",
+      "unhelpful",
+      "distracted",
+      "absent"
+    ],
+    "answerIndex": 0,
+    "explanation": "Knowledgeable means having a lot of information about a subject — an ideal quality in a tour guide."
+  },
+  {
+    "id": "q-060",
+    "type": "fill-blank",
+    "wordId": "word-090",
+    "question": "The hotel lobby had a warm, ___ atmosphere that made every guest feel welcome.",
+    "options": [
+      "welcoming",
+      "threatening",
+      "boring",
+      "chaotic"
+    ],
+    "answerIndex": 0,
+    "explanation": "Welcoming describes a warm and friendly environment that makes visitors feel comfortable."
+  },
+  {
+    "id": "q-061",
+    "type": "fill-blank",
+    "wordId": "word-103",
+    "question": "She felt ___ when her friend surprised her with a birthday party.",
+    "options": [
+      "elated",
+      "miserable",
+      "frightened",
+      "bored"
+    ],
+    "answerIndex": 0,
+    "explanation": "Elated means extremely happy and overjoyed — often used for positive surprises and achievements."
+  },
+  {
+    "id": "q-062",
+    "type": "fill-blank",
+    "wordId": "word-115",
+    "question": "Despite failing the exam, she remained ___ and immediately started studying again.",
+    "options": [
+      "resilient",
+      "hopeless",
+      "careless",
+      "indifferent"
+    ],
+    "answerIndex": 0,
+    "explanation": "Resilient describes the ability to bounce back from setbacks quickly and positively."
+  },
+  {
+    "id": "q-063",
+    "type": "fill-blank",
+    "wordId": "word-128",
+    "question": "He cracked his phone ___ when it slipped off the table.",
+    "options": [
+      "screen",
+      "battery",
+      "charger",
+      "keyboard"
+    ],
+    "answerIndex": 0,
+    "explanation": "The screen is the display surface of a device — it is the most commonly cracked component in smartphones."
+  },
+  {
+    "id": "q-064",
+    "type": "fill-blank",
+    "wordId": "word-139",
+    "question": "Always use a ___ password that is difficult for others to guess.",
+    "options": [
+      "secure",
+      "simple",
+      "shared",
+      "public"
+    ],
+    "answerIndex": 0,
+    "explanation": "A secure password protects your accounts — it should be complex and unique, not simple or shared."
+  },
+  {
+    "id": "q-065",
+    "type": "fill-blank",
+    "wordId": "word-142",
+    "question": "The app's clean ___ made it easy for first-time users to navigate.",
+    "options": [
+      "interface",
+      "battery",
+      "charger",
+      "network"
+    ],
+    "answerIndex": 0,
+    "explanation": "An interface is the visual layout through which a user interacts with an application."
+  },
+  {
+    "id": "q-066",
+    "type": "fill-blank",
+    "wordId": "word-151",
+    "question": "The old ___ in the garden provided cool shade during the hot afternoon.",
+    "options": [
+      "tree",
+      "cloud",
+      "river",
+      "rock"
+    ],
+    "answerIndex": 0,
+    "explanation": "Trees provide shade with their leafy canopy — a classic feature of gardens and parks."
+  },
+  {
+    "id": "q-067",
+    "type": "fill-blank",
+    "wordId": "word-161",
+    "question": "Scientists warn that ___ change will cause more frequent extreme weather events.",
+    "options": [
+      "climate",
+      "animal",
+      "forest",
+      "ocean"
+    ],
+    "answerIndex": 0,
+    "explanation": "Climate change refers to long-term shifts in global temperature and weather patterns caused largely by human activity."
+  },
+  {
+    "id": "q-068",
+    "type": "fill-blank",
+    "wordId": "word-164",
+    "question": "Plastic ___ in the ocean harms millions of marine animals every year.",
+    "options": [
+      "pollution",
+      "protection",
+      "conservation",
+      "adaptation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pollution means introducing harmful substances into the natural environment — plastic pollution is one of the worst forms."
+  },
+  {
+    "id": "q-069",
+    "type": "fill-blank",
+    "wordId": "word-175",
+    "question": "The government launched a ___ programme to restore forests destroyed by logging.",
+    "options": [
+      "reforestation",
+      "deforestation",
+      "irrigation",
+      "urbanisation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Reforestation means planting trees to restore a forest — the opposite of deforestation."
+  },
+  {
+    "id": "q-070",
+    "type": "fill-blank",
+    "wordId": "word-179",
+    "question": "Eating a ___ diet full of vegetables and fruits improves your energy levels.",
+    "options": [
+      "healthy",
+      "fatty",
+      "sugary",
+      "processed"
+    ],
+    "answerIndex": 0,
+    "explanation": "A healthy diet provides the right balance of nutrients to keep the body functioning well."
+  },
+  {
+    "id": "q-071",
+    "type": "fill-blank",
+    "wordId": "word-184",
+    "question": "During a panic attack, it helps to ___ slowly and deeply to calm your nervous system.",
+    "options": [
+      "breathe",
+      "run",
+      "eat",
+      "sleep"
+    ],
+    "answerIndex": 0,
+    "explanation": "Deep, slow breathing activates the body's calming response and lowers heart rate during stress."
+  },
+  {
+    "id": "q-072",
+    "type": "fill-blank",
+    "wordId": "word-189",
+    "question": "Washing your hands regularly is one of the best ways to ___ the spread of germs.",
+    "options": [
+      "prevent",
+      "increase",
+      "ignore",
+      "study"
+    ],
+    "answerIndex": 0,
+    "explanation": "To prevent means to stop something from happening — in health, prevention is better than cure."
+  },
+  {
+    "id": "q-073",
+    "type": "fill-blank",
+    "wordId": "word-190",
+    "question": "Proper ___ is crucial during exercise to avoid cramps and dizziness.",
+    "options": [
+      "hydration",
+      "medication",
+      "nutrition",
+      "relaxation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hydration means drinking enough water — during physical activity, your body loses water through sweat."
+  },
+  {
+    "id": "q-074",
+    "type": "fill-blank",
+    "wordId": "word-196",
+    "question": "The pharmacist asked for a ___ before dispensing the antibiotics.",
+    "options": [
+      "prescription",
+      "receipt",
+      "booking",
+      "symptom"
+    ],
+    "answerIndex": 0,
+    "explanation": "A prescription is an official written authorisation from a doctor for a specific medication."
+  },
+  {
+    "id": "q-075",
+    "type": "fill-blank",
+    "wordId": "word-197",
+    "question": "After the injury, the athlete began physical ___ to regain strength in his knee.",
+    "options": [
+      "rehabilitation",
+      "examination",
+      "medication",
+      "vaccination"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rehabilitation is the structured process of recovering and rebuilding physical or mental abilities after illness or injury."
+  }
+]

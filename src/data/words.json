@@ -1,0 +1,5014 @@
+[
+  {
+    "id": "word-001",
+    "word": "routine",
+    "phonetic": "/ruːˈtiːn/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Daily Life",
+    "meaning": "a regular, customary way of doing things in a fixed order",
+    "examples": [
+      "I follow a calm morning routine before going to university.",
+      "Reading books every night is an essential part of her bedtime routine."
+    ],
+    "synonyms": [
+      "habit",
+      "regimen",
+      "schedule"
+    ],
+    "antonyms": [
+      "irregularity",
+      "novelty",
+      "disorder"
+    ],
+    "memoryTip": "Think of 'route' — a familiar path you travel along every single day.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-002",
+    "word": "errand",
+    "phonetic": "/ˈɛr.ənd/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Daily Life",
+    "meaning": "a short journey made to deliver or collect something or complete a chore",
+    "examples": [
+      "I have a quick errand to run at the post office before lunch.",
+      "She spent Saturday morning running grocery errands for her grandparents."
+    ],
+    "synonyms": [
+      "chore",
+      "task",
+      "mission"
+    ],
+    "antonyms": [],
+    "memoryTip": "Rhymes with 'end' — you go out with a purpose and bring it to a quick end.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-003",
+    "word": "chores",
+    "phonetic": "/tʃɔːrz/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Daily Life",
+    "meaning": "routine domestic tasks such as cleaning, washing, or tidying",
+    "examples": [
+      "The children share household chores like washing dishes and taking out the bins.",
+      "Finishing my chores early leaves the entire afternoon free for relaxation."
+    ],
+    "synonyms": [
+      "duties",
+      "housework",
+      "tasks"
+    ],
+    "antonyms": [
+      "leisure",
+      "recreation"
+    ],
+    "memoryTip": "Sounds like 'bore' — chores are everyday tasks that may feel repetitive but keep life orderly.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-004",
+    "word": "neighbor",
+    "phonetic": "/ˈneɪ.bər/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Daily Life",
+    "meaning": "a person living next door or near to you",
+    "examples": [
+      "Our friendly neighbor watered our garden while we were away on holiday.",
+      "Living in a close-knit neighborhood means everyone knows their neighbors."
+    ],
+    "synonyms": [
+      "resident",
+      "dweller",
+      "bystander"
+    ],
+    "antonyms": [
+      "stranger",
+      "outsider"
+    ],
+    "memoryTip": "Contains 'near' — someone who dwells near your doorstep.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-005",
+    "word": "schedule",
+    "phonetic": "/ˈskɛdʒ.uːl/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Daily Life",
+    "meaning": "a plan that gives expected times for different events or activities",
+    "examples": [
+      "Her tight lecture schedule leaves very little time for midday breaks.",
+      "The train arrived right on schedule despite the heavy rainfall."
+    ],
+    "synonyms": [
+      "timetable",
+      "itinerary",
+      "agenda"
+    ],
+    "antonyms": [
+      "disorganization",
+      "improvisation"
+    ],
+    "memoryTip": "Picture your school timetable — a schedule keeps your week on track.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-006",
+    "word": "convenient",
+    "phonetic": "/kənˈviː.ni.ənt/",
+    "partOfSpeech": "adjective",
+    "level": "Beginner",
+    "category": "Daily Life",
+    "meaning": "fitting in well with a person's needs, activities, or easy to reach",
+    "examples": [
+      "Having a grocery store right across the street is incredibly convenient.",
+      "Please contact me whenever it is most convenient for you."
+    ],
+    "synonyms": [
+      "handy",
+      "accessible",
+      "practical"
+    ],
+    "antonyms": [
+      "inconvenient",
+      "awkward",
+      "cumbersome"
+    ],
+    "memoryTip": "Think of a 'convenience store' — open 24/7 because it saves you time and effort.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-007",
+    "word": "organize",
+    "phonetic": "/ˈɔːr.ɡə.naɪz/",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "category": "Daily Life",
+    "meaning": "to arrange things systematically or coordinate an event",
+    "examples": [
+      "She took an hour to organize her study desk and file her notes.",
+      "The student council helped organize a welcoming party for freshmen."
+    ],
+    "synonyms": [
+      "arrange",
+      "systematize",
+      "coordinate"
+    ],
+    "antonyms": [
+      "disorganize",
+      "scatter",
+      "clutter"
+    ],
+    "memoryTip": "Think of body 'organs' — each has a specific, orderly place and purpose.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-008",
+    "word": "prepare",
+    "phonetic": "/prɪˈpɛər/",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "category": "Daily Life",
+    "meaning": "to make something ready for use or make oneself ready for an event",
+    "examples": [
+      "He woke up early to prepare a nutritious breakfast for his family.",
+      "Students should prepare thoroughly before sitting for their semester exams."
+    ],
+    "synonyms": [
+      "ready",
+      "equip",
+      "arrange"
+    ],
+    "antonyms": [
+      "neglect",
+      "disregard",
+      "spoil"
+    ],
+    "memoryTip": "Prefix 'pre-' means before — getting things set before action begins.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-009",
+    "word": "borrow",
+    "phonetic": "/ˈbɒr.oʊ/",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "category": "Daily Life",
+    "meaning": "to take and use something belonging to someone else with the intention of returning it",
+    "examples": [
+      "Can I borrow your umbrella until tomorrow afternoon?",
+      "Students often borrow academic journals from the campus library."
+    ],
+    "synonyms": [
+      "take on loan",
+      "adopt",
+      "obtain"
+    ],
+    "antonyms": [
+      "lend",
+      "return",
+      "give back"
+    ],
+    "memoryTip": "Borrow means taking, while lend means giving — remember 'B' comes before 'L'.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-010",
+    "word": "repair",
+    "phonetic": "/rɪˈpɛər/",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "category": "Daily Life",
+    "meaning": "to restore something broken, damaged, or torn to good condition",
+    "examples": [
+      "The technician arrived within an hour to repair the leaking washing machine.",
+      "It took several weeks of calm communication to repair their friendship."
+    ],
+    "synonyms": [
+      "fix",
+      "mend",
+      "restore"
+    ],
+    "antonyms": [
+      "break",
+      "damage",
+      "destroy"
+    ],
+    "memoryTip": "To 're-pair' is to put two broken pieces back together as a working pair.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-011",
+    "word": "budget",
+    "phonetic": "/ˈbʌdʒ.ɪt/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Daily Life",
+    "meaning": "an estimate of income and expenditure for a set period of time",
+    "examples": [
+      "Living within a monthly budget helps students save money for emergencies.",
+      "The renovation project was completed on time and well within budget."
+    ],
+    "synonyms": [
+      "financial plan",
+      "allowance",
+      "spending limit"
+    ],
+    "antonyms": [
+      "overspending",
+      "wastefulness"
+    ],
+    "memoryTip": "A budget guards your pocket so your expenses don't budge out of control.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-012",
+    "word": "appliance",
+    "phonetic": "/əˈplaɪ.əns/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Daily Life",
+    "meaning": "a device or piece of equipment designed to perform a specific household task",
+    "examples": [
+      "Modern kitchen appliances like dishwashers and microwaves save valuable time.",
+      "Remember to unplug heavy appliances before going away on long trips."
+    ],
+    "synonyms": [
+      "device",
+      "gadget",
+      "machine"
+    ],
+    "antonyms": [],
+    "memoryTip": "You 'apply' it to a household chore to get the work done quickly.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-013",
+    "word": "privacy",
+    "phonetic": "/ˈprɪv.ə.si/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Daily Life",
+    "meaning": "a state in which one is not observed or disturbed by other people",
+    "examples": [
+      "She closed the bedroom door so she could study in complete privacy.",
+      "Digital security settings allow you to protect your personal privacy online."
+    ],
+    "synonyms": [
+      "seclusion",
+      "confidentiality",
+      "solitude"
+    ],
+    "antonyms": [
+      "publicity",
+      "exposure",
+      "openness"
+    ],
+    "memoryTip": "Connects directly with 'private' — your own protected personal space.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-014",
+    "word": "maintenance",
+    "phonetic": "/ˈmeɪn.tən.əns/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Daily Life",
+    "meaning": "the process of keeping something in good condition through routine care",
+    "examples": [
+      "Regular vehicle maintenance prevents sudden breakdowns and costly repairs.",
+      "The apartment building underwent roof maintenance throughout the spring."
+    ],
+    "synonyms": [
+      "upkeep",
+      "servicing",
+      "preservation"
+    ],
+    "antonyms": [
+      "neglect",
+      "abandonment",
+      "destruction"
+    ],
+    "memoryTip": "Think of 'maintain' — routine care that maintains strength and performance.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-015",
+    "word": "reliable",
+    "phonetic": "/rɪˈlaɪ.ə.bəl/",
+    "partOfSpeech": "adjective",
+    "level": "Intermediate",
+    "category": "Daily Life",
+    "meaning": "consistently good in quality or performance, and able to be trusted",
+    "examples": [
+      "Public transport in this city is remarkably reliable and always on time.",
+      "He proved to be a reliable partner who delivered on every single promise."
+    ],
+    "synonyms": [
+      "dependable",
+      "trustworthy",
+      "steadfast"
+    ],
+    "antonyms": [
+      "unreliable",
+      "undependable",
+      "fickle"
+    ],
+    "memoryTip": "Someone you can 'rely' on is 'rely-able'.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-016",
+    "word": "efficient",
+    "phonetic": "/ɪˈfɪʃ.ənt/",
+    "partOfSpeech": "adjective",
+    "level": "Intermediate",
+    "category": "Daily Life",
+    "meaning": "achieving maximum productivity with minimum wasted effort or expense",
+    "examples": [
+      "Using keyboard shortcuts makes drafting documents much more efficient.",
+      "An energy-efficient air conditioner lowered our electricity bills significantly."
+    ],
+    "synonyms": [
+      "effective",
+      "productive",
+      "streamlined"
+    ],
+    "antonyms": [
+      "inefficient",
+      "wasteful",
+      "sluggish"
+    ],
+    "memoryTip": "Efficiency turns effort into effect without wasting energy.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-017",
+    "word": "prioritize",
+    "phonetic": "/praɪˈɔːr.ə.taɪz/",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "category": "Daily Life",
+    "meaning": "to arrange or treat things in order of importance",
+    "examples": [
+      "During exam weeks, it is crucial to prioritize sleep alongside revision.",
+      "Busy managers learn to prioritize urgent assignments over minor requests."
+    ],
+    "synonyms": [
+      "rank",
+      "order",
+      "emphasize"
+    ],
+    "antonyms": [
+      "neglect",
+      "downgrade",
+      "ignore"
+    ],
+    "memoryTip": "Putting what is 'prior' (first in importance) at the top of your list.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-018",
+    "word": "allocate",
+    "phonetic": "/ˈæl.ə.keɪt/",
+    "partOfSpeech": "verb",
+    "level": "Advanced",
+    "category": "Daily Life",
+    "meaning": "to distribute resources or duties for a specific purpose",
+    "examples": [
+      "I allocate forty-five minutes every evening strictly to reading literature.",
+      "The city council decided to allocate extra funds for public park repairs."
+    ],
+    "synonyms": [
+      "assign",
+      "allot",
+      "designate"
+    ],
+    "antonyms": [
+      "withhold",
+      "confiscate",
+      "retain"
+    ],
+    "memoryTip": "Think of locating a spot ('locate') to set aside funds or time.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-019",
+    "word": "negotiate",
+    "phonetic": "/nəˈɡoʊ.ʃi.eɪt/",
+    "partOfSpeech": "verb",
+    "level": "Advanced",
+    "category": "Daily Life",
+    "meaning": "to discuss something formally with others in order to reach an agreement",
+    "examples": [
+      "The tenants met with the landlord to negotiate a fair lease extension.",
+      "She managed to negotiate a lower price when buying the antique dining table."
+    ],
+    "synonyms": [
+      "bargain",
+      "deliberate",
+      "arbitrate"
+    ],
+    "antonyms": [
+      "dictate",
+      "impose",
+      "demand"
+    ],
+    "memoryTip": "When you negotiate, you exchange dialogue until both sides say 'yes'.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-020",
+    "word": "alternative",
+    "phonetic": "/ɔːlˈtɜːr.nə.tɪv/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Daily Life",
+    "meaning": "one of two or more available possibilities or options",
+    "examples": [
+      "Cycling to campus is a healthier alternative to sitting in crowded buses.",
+      "When the highway was closed, drivers searched for a scenic alternative route."
+    ],
+    "synonyms": [
+      "option",
+      "substitute",
+      "choice"
+    ],
+    "antonyms": [
+      "mandate",
+      "compulsion"
+    ],
+    "memoryTip": "From 'alter' (to change) — an alternate route that changes your direction.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-021",
+    "word": "procrastinate",
+    "phonetic": "/proʊˈkræs.tə.neɪt/",
+    "partOfSpeech": "verb",
+    "level": "Advanced",
+    "category": "Daily Life",
+    "meaning": "to delay or postpone doing something that must be done, usually through laziness or distraction",
+    "examples": [
+      "If you procrastinate on your final project, the deadline will cause undue panic.",
+      "He tends to procrastinate by cleaning his entire apartment instead of writing his paper."
+    ],
+    "synonyms": [
+      "delay",
+      "postpone",
+      "stall"
+    ],
+    "antonyms": [
+      "expedite",
+      "accelerate",
+      "act"
+    ],
+    "memoryTip": "From Latin 'cras' (tomorrow) — putting things off until tomorrow and tomorrow.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-022",
+    "word": "resourceful",
+    "phonetic": "/rɪˈzɔːrs.fəl/",
+    "partOfSpeech": "adjective",
+    "level": "Advanced",
+    "category": "Daily Life",
+    "meaning": "having the ability to find quick, clever ways to overcome difficulties",
+    "examples": [
+      "A resourceful cook can create a delicious dinner from whatever leftovers are in the fridge.",
+      "She proved resourceful during the power outage by converting phone torches into soft room lanterns."
+    ],
+    "synonyms": [
+      "ingenious",
+      "inventive",
+      "capable"
+    ],
+    "antonyms": [
+      "helpless",
+      "inept",
+      "unimaginative"
+    ],
+    "memoryTip": "Full of resources — even when tools are scarce, your mind finds the solution.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-023",
+    "word": "meticulous",
+    "phonetic": "/məˈtɪk.jə.ləs/",
+    "partOfSpeech": "adjective",
+    "level": "Advanced",
+    "category": "Daily Life",
+    "meaning": "showing great attention to detail, very careful and precise",
+    "examples": [
+      "Her meticulous organization of our shared files made finding documents effortless.",
+      "The tailor took meticulous measurements to ensure the suit fitted flawlessly."
+    ],
+    "synonyms": [
+      "painstaking",
+      "scrupulous",
+      "thorough"
+    ],
+    "antonyms": [
+      "careless",
+      "sloppy",
+      "slapdash"
+    ],
+    "memoryTip": "Meticulous people tick off every detail like a ticking clock.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-024",
+    "word": "compromise",
+    "phonetic": "/ˈkɒm.prə.maɪz/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Daily Life",
+    "meaning": "an agreement or settlement reached by each side making concessions",
+    "examples": [
+      "Finding a good compromise over household chores kept the flatmates on great terms.",
+      "After hours of debate, both sides reached a sensible compromise on the budget."
+    ],
+    "synonyms": [
+      "settlement",
+      "concession",
+      "middle ground"
+    ],
+    "antonyms": [
+      "disagreement",
+      "intransigence",
+      "standoff"
+    ],
+    "memoryTip": "Both promise to meet halfway — 'co-promise'.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-025",
+    "word": "resilience",
+    "phonetic": "/rɪˈzɪl.jəns/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Daily Life",
+    "meaning": "the capacity to recover quickly from difficulties; toughness and bounce-back ability",
+    "examples": [
+      "Her emotional resilience carried her through a difficult first year at university.",
+      "The community showed extraordinary resilience as they rebuilt their town after the storm."
+    ],
+    "synonyms": [
+      "toughness",
+      "endurance",
+      "fortitude"
+    ],
+    "antonyms": [
+      "fragility",
+      "vulnerability",
+      "weakness"
+    ],
+    "memoryTip": "Like a spring that bounces back into shape after being squeezed.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-026",
+    "word": "lesson",
+    "phonetic": "/ˈlɛs.ən/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Education",
+    "meaning": "a period of learning or teaching about a particular subject",
+    "examples": [
+      "Our chemistry professor began the lesson with a captivating demonstration.",
+      "Making mistakes in your first draft teaches you an invaluable writing lesson."
+    ],
+    "synonyms": [
+      "class",
+      "lecture",
+      "tutorial"
+    ],
+    "antonyms": [],
+    "memoryTip": "Take a lesson to lessen your confusion on a difficult topic.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-027",
+    "word": "student",
+    "phonetic": "/ˈstjuː.dənt/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Education",
+    "meaning": "a person who is studying at a school, college, or university",
+    "examples": [
+      "Every student in the seminar was encouraged to share their perspective.",
+      "As a lifelong student of history, he spends his weekends browsing archives."
+    ],
+    "synonyms": [
+      "pupil",
+      "scholar",
+      "learner"
+    ],
+    "antonyms": [
+      "instructor",
+      "teacher",
+      "mentor"
+    ],
+    "memoryTip": "Someone who dedicates time to study — 'study-ant'.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-028",
+    "word": "subject",
+    "phonetic": "/ˈsʌb.dʒɪkt/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Education",
+    "meaning": "a branch of knowledge studied or taught in an educational institution",
+    "examples": [
+      "Mathematics has always been her strongest academic subject.",
+      "The lecture covered a fascinating subject that sparked a long debate."
+    ],
+    "synonyms": [
+      "discipline",
+      "topic",
+      "field"
+    ],
+    "antonyms": [],
+    "memoryTip": "The main topic that your study is subjected to.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-029",
+    "word": "question",
+    "phonetic": "/ˈkwɛs.tʃən/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Education",
+    "meaning": "a sentence worded or expressed so as to elicit information",
+    "examples": [
+      "The lecturer paused after each slide to invite questions from the audience.",
+      "Asking insightful questions is one of the best ways to deepen your understanding."
+    ],
+    "synonyms": [
+      "inquiry",
+      "query",
+      "interrogation"
+    ],
+    "antonyms": [
+      "answer",
+      "response",
+      "reply"
+    ],
+    "memoryTip": "A 'quest' for information — asking a question starts the journey of learning.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-030",
+    "word": "answer",
+    "phonetic": "/ˈɑːn.sər/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Education",
+    "meaning": "a thing said, written, or done to deal with or satisfy a question or problem",
+    "examples": [
+      "She raised her hand immediately because she knew the correct answer.",
+      "There is rarely a single simple answer to complex economic challenges."
+    ],
+    "synonyms": [
+      "solution",
+      "response",
+      "reply"
+    ],
+    "antonyms": [
+      "question",
+      "inquiry",
+      "query"
+    ],
+    "memoryTip": "An answer serves as the anchor that settles a question.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-031",
+    "word": "practice",
+    "phonetic": "/ˈpræk.tɪs/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Education",
+    "meaning": "repeated exercise in an activity or skill so as to acquire or maintain proficiency",
+    "examples": [
+      "Regular coding practice is the fastest route to software development mastery.",
+      "With twenty minutes of vocabulary practice each day, your fluency will surge."
+    ],
+    "synonyms": [
+      "rehearsal",
+      "exercise",
+      "training"
+    ],
+    "antonyms": [
+      "inactivity",
+      "idleness"
+    ],
+    "memoryTip": "Practice makes progress — repeating a skill locks it into muscle memory.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-032",
+    "word": "explain",
+    "phonetic": "/ɪkˈspleɪn/",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "category": "Education",
+    "meaning": "to make an idea or situation clear to someone by describing it in more detail",
+    "examples": [
+      "Could you please explain how you arrived at this formula in your calculation?",
+      "The textbook uses real-world diagrams to explain how photosynthesis operates."
+    ],
+    "synonyms": [
+      "clarify",
+      "elucidate",
+      "describe"
+    ],
+    "antonyms": [
+      "confuse",
+      "obscure",
+      "complicate"
+    ],
+    "memoryTip": "Make it plain — 'ex-plain' turns complicated concepts into plain English.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-033",
+    "word": "research",
+    "phonetic": "/rɪˈsɜːrtʃ/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Education",
+    "meaning": "the systematic investigation into and study of materials and sources to establish facts",
+    "examples": [
+      "Her groundbreaking cancer research was published in an international medical journal.",
+      "Students must conduct thorough primary research before drafting their dissertations."
+    ],
+    "synonyms": [
+      "investigation",
+      "inquiry",
+      "study"
+    ],
+    "antonyms": [
+      "ignorance",
+      "guesswork"
+    ],
+    "memoryTip": "To 're-search' — looking deeply again and again until truth is uncovered.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-034",
+    "word": "review",
+    "phonetic": "/rɪˈvjuː/",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "category": "Education",
+    "meaning": "to examine or study again especially as a means of correction or revision",
+    "examples": [
+      "Take thirty minutes every Sunday to review the notes you gathered during the week.",
+      "The admissions committee will carefully review each candidate's application portfolio."
+    ],
+    "synonyms": [
+      "re-examine",
+      "revise",
+      "reconsider"
+    ],
+    "antonyms": [
+      "ignore",
+      "overlook"
+    ],
+    "memoryTip": "To 're-view' literally means to view something a second time with fresh eyes.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-035",
+    "word": "curious",
+    "phonetic": "/ˈkjʊər.i.əs/",
+    "partOfSpeech": "adjective",
+    "level": "Intermediate",
+    "category": "Education",
+    "meaning": "eager to know or learn something new",
+    "examples": [
+      "The young scientist was always curious about how celestial bodies form in space.",
+      "A curious mindset turns everyday challenges into exciting learning opportunities."
+    ],
+    "synonyms": [
+      "inquisitive",
+      "intrigued",
+      "inquiring"
+    ],
+    "antonyms": [
+      "indifferent",
+      "uninterested",
+      "apathetic"
+    ],
+    "memoryTip": "Curiosity cured boredom — eager questions ignite curiosity.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-036",
+    "word": "improve",
+    "phonetic": "/ɪmˈpruːv/",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "category": "Education",
+    "meaning": "to make or become better in quality, value, or capability",
+    "examples": [
+      "Practicing vocabulary flashcards every morning will steadily improve your test score.",
+      "Constructive feedback from your tutor will help you improve your essay structure."
+    ],
+    "synonyms": [
+      "enhance",
+      "upgrade",
+      "refine"
+    ],
+    "antonyms": [
+      "worsen",
+      "deteriorate",
+      "degrade"
+    ],
+    "memoryTip": "To prove yourself in a skill by upgrading it step by step.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-037",
+    "word": "concentrate",
+    "phonetic": "/ˈkɒn.sən.treɪt/",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "category": "Education",
+    "meaning": "to focus all one's attention or mental effort on a particular object or activity",
+    "examples": [
+      "I find it much easier to concentrate in the quiet study zones of the library.",
+      "Turn off smartphone notifications when you need to concentrate on difficult assignments."
+    ],
+    "synonyms": [
+      "focus",
+      "apply oneself",
+      "zero in"
+    ],
+    "antonyms": [
+      "distract",
+      "scatter",
+      "wander"
+    ],
+    "memoryTip": "Bring all your thoughts together into one single 'center'.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-038",
+    "word": "assignment",
+    "phonetic": "/əˈsaɪn.mənt/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Education",
+    "meaning": "a task or piece of work allocated to someone as part of a course of study or job",
+    "examples": [
+      "Our professor uploaded the semester project assignment to the student portal today.",
+      "She completed her programming assignment well before the midnight deadline."
+    ],
+    "synonyms": [
+      "task",
+      "project",
+      "homework"
+    ],
+    "antonyms": [],
+    "memoryTip": "A duty 'assigned' to you by a teacher or supervisor.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-039",
+    "word": "resource",
+    "phonetic": "/rɪˈzɔːrs/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Education",
+    "meaning": "a source of supply, support, or information that can be readily drawn upon",
+    "examples": [
+      "The university digital archive is an invaluable resource for graduate researchers.",
+      "Effective teachers share online resources that guide independent student learning."
+    ],
+    "synonyms": [
+      "asset",
+      "material",
+      "source"
+    ],
+    "antonyms": [],
+    "memoryTip": "Re-source — going back to the source where knowledge flows.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-040",
+    "word": "academic",
+    "phonetic": "/ˌæk.əˈdɛm.ɪk/",
+    "partOfSpeech": "adjective",
+    "level": "Intermediate",
+    "category": "Education",
+    "meaning": "relating to education and scholarship at schools, colleges, and universities",
+    "examples": [
+      "She received an academic scholarship based on her remarkable entrance exam scores.",
+      "Writing clear academic papers requires disciplined research and formal vocabulary."
+    ],
+    "synonyms": [
+      "scholarly",
+      "educational",
+      "intellectual"
+    ],
+    "antonyms": [
+      "practical",
+      "uneducated",
+      "informal"
+    ],
+    "memoryTip": "Trace back to the ancient Greek 'Academy' founded by Plato for learning.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-041",
+    "word": "evaluate",
+    "phonetic": "/ɪˈvæl.ju.eɪt/",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "category": "Education",
+    "meaning": "to form an idea of the amount, number, or value of; assess",
+    "examples": [
+      "Teachers use rubrics to evaluate student presentations objectively and fairly.",
+      "Take time to evaluate your study habits and identify where you lose focus."
+    ],
+    "synonyms": [
+      "assess",
+      "judge",
+      "appraise"
+    ],
+    "antonyms": [
+      "guess",
+      "neglect"
+    ],
+    "memoryTip": "Notice 'value' inside 'evaluate' — determining the true value of work.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-042",
+    "word": "accurate",
+    "phonetic": "/ˈæk.jʊr.ət/",
+    "partOfSpeech": "adjective",
+    "level": "Intermediate",
+    "category": "Education",
+    "meaning": "correct in all details; free from error",
+    "examples": [
+      "Scientific experiments rely on accurate measurements taken with calibrated tools.",
+      "An accurate citation list ensures your research papers respect academic integrity."
+    ],
+    "synonyms": [
+      "precise",
+      "exact",
+      "correct"
+    ],
+    "antonyms": [
+      "inaccurate",
+      "erroneous",
+      "imprecise"
+    ],
+    "memoryTip": "Hit the bullseye with 'accuracy' — right on the mark with zero mistakes.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-043",
+    "word": "interpret",
+    "phonetic": "/ɪnˈtɜːr.prɪt/",
+    "partOfSpeech": "verb",
+    "level": "Advanced",
+    "category": "Education",
+    "meaning": "to explain or understand the meaning of information, words, or actions",
+    "examples": [
+      "Literature students learn how to interpret subtle metaphors in classical poetry.",
+      "The statistical analyst had to interpret contradictory survey findings for the board."
+    ],
+    "synonyms": [
+      "explain",
+      "decode",
+      "construe"
+    ],
+    "antonyms": [
+      "misinterpret",
+      "misunderstand",
+      "confuse"
+    ],
+    "memoryTip": "An interpreter bridges the gap between foreign languages and understanding.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-044",
+    "word": "concept",
+    "phonetic": "/ˈkɒn.sɛpt/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Education",
+    "meaning": "an abstract idea or a general notion conceived in the mind",
+    "examples": [
+      "Gravity is a fundamental physical concept that explains planetary orbits.",
+      "Once you grasp the core concept of object-oriented programming, coding feels natural."
+    ],
+    "synonyms": [
+      "notion",
+      "principle",
+      "idea"
+    ],
+    "antonyms": [
+      "concrete reality",
+      "fact"
+    ],
+    "memoryTip": "Conceived in the mind — a concept is a mental blueprint for understanding.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-045",
+    "word": "analysis",
+    "phonetic": "/əˈnæl.ə.sɪs/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Education",
+    "meaning": "a detailed examination of the elements or structure of something",
+    "examples": [
+      "Her in-depth data analysis revealed surprising consumer behavior trends.",
+      "The thesis opens with a comparative analysis of two twentieth-century novels."
+    ],
+    "synonyms": [
+      "examination",
+      "investigation",
+      "scrutiny"
+    ],
+    "antonyms": [
+      "synthesis",
+      "generalization"
+    ],
+    "memoryTip": "Breaks a complex whole into pieces so each piece can be understood.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-046",
+    "word": "comprehend",
+    "phonetic": "/ˌkɒm.prɪˈhɛnd/",
+    "partOfSpeech": "verb",
+    "level": "Advanced",
+    "category": "Education",
+    "meaning": "to grasp mentally; understand fully",
+    "examples": [
+      "The reading comprehension section tests whether students truly comprehend the passages.",
+      "He struggled to comprehend the full philosophical depth of the ancient text."
+    ],
+    "synonyms": [
+      "understand",
+      "grasp",
+      "fathom"
+    ],
+    "antonyms": [
+      "misunderstand",
+      "misconceive"
+    ],
+    "memoryTip": "Latin 'prehendere' means to seize — your mind seizes and holds the idea.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-047",
+    "word": "criterion",
+    "phonetic": "/kraɪˈtɪər.i.ən/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Education",
+    "meaning": "a principle or standard by which something may be judged or decided",
+    "examples": [
+      "Originality of thought is a decisive criterion when evaluating graduate essays.",
+      "The scholarship committee uses academic excellence as its primary selection criterion."
+    ],
+    "synonyms": [
+      "standard",
+      "benchmark",
+      "measure"
+    ],
+    "antonyms": [],
+    "memoryTip": "Critique uses criteria — a criterion is the rule a critic uses to judge.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-048",
+    "word": "comprehensive",
+    "phonetic": "/ˌkɒm.prɪˈhɛn.sɪv/",
+    "partOfSpeech": "adjective",
+    "level": "Advanced",
+    "category": "Education",
+    "meaning": "including or dealing with all or nearly all elements or aspects of something",
+    "examples": [
+      "The syllabus provides a comprehensive overview of modern European history.",
+      "She conducted a comprehensive review of all medical trials published in the decade."
+    ],
+    "synonyms": [
+      "exhaustive",
+      "all-inclusive",
+      "thorough"
+    ],
+    "antonyms": [
+      "incomplete",
+      "partial",
+      "superficial"
+    ],
+    "memoryTip": "It comprehends everything — leaving no stone unturned in coverage.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-049",
+    "word": "synthesize",
+    "phonetic": "/ˈsɪn.θə.saɪz/",
+    "partOfSpeech": "verb",
+    "level": "Advanced",
+    "category": "Education",
+    "meaning": "to combine a number of things into a coherent, unified whole",
+    "examples": [
+      "A great literature review must synthesize multiple research papers into one coherent narrative.",
+      "The researcher was able to synthesize data from twelve countries into a predictive model."
+    ],
+    "synonyms": [
+      "integrate",
+      "blend",
+      "amalgamate"
+    ],
+    "antonyms": [
+      "separate",
+      "dissect",
+      "analyze"
+    ],
+    "memoryTip": "Prefix 'syn-' means together (like synergy) — bringing diverse parts together.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-050",
+    "word": "proficiency",
+    "phonetic": "/prəˈfɪʃ.ən.si/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Education",
+    "meaning": "a high degree of competence or skill; expertise",
+    "examples": [
+      "Demonstrating English language proficiency is required for international degree programs.",
+      "Years of dedicated studio practice elevated his piano proficiency to concert standards."
+    ],
+    "synonyms": [
+      "expertise",
+      "mastery",
+      "competence"
+    ],
+    "antonyms": [
+      "incompetence",
+      "inexperience",
+      "clumsiness"
+    ],
+    "memoryTip": "A 'professional' possesses high 'proficiency' in their craft.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-051",
+    "word": "customer",
+    "phonetic": "/ˈkʌs.tə.mər/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Business",
+    "meaning": "a person or organization that buys goods or services from a store or business",
+    "examples": [
+      "Providing polite and swift assistance keeps every customer satisfied and loyal.",
+      "The online bookstore launched a loyalty rewards program for returning customers."
+    ],
+    "synonyms": [
+      "client",
+      "buyer",
+      "consumer"
+    ],
+    "antonyms": [
+      "seller",
+      "vendor"
+    ],
+    "memoryTip": "It's their custom (habit) to purchase from your store.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-052",
+    "word": "meeting",
+    "phonetic": "/ˈmiː.tɪŋ/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Business",
+    "meaning": "an assembly of people for discussion, especially in a business or professional context",
+    "examples": [
+      "The engineering team scheduled a daily standup meeting to track sprint progress.",
+      "Minutes of the board meeting were circulated to all executive directors."
+    ],
+    "synonyms": [
+      "conference",
+      "gathering",
+      "assembly"
+    ],
+    "antonyms": [],
+    "memoryTip": "A place where minds 'meet' to make decisions.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-053",
+    "word": "product",
+    "phonetic": "/ˈprɒd.ʌkt/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Business",
+    "meaning": "an article or substance that is manufactured or refined for sale",
+    "examples": [
+      "The startup designed an eco-friendly cleaning product packaged in recycled glass.",
+      "User testing helped the designers refine the software product before public release."
+    ],
+    "synonyms": [
+      "merchandise",
+      "commodity",
+      "item"
+    ],
+    "antonyms": [],
+    "memoryTip": "What you produce to sell on the market.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-054",
+    "word": "profit",
+    "phonetic": "/ˈprɒf.ɪt/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Business",
+    "meaning": "a financial gain, especially the difference between amount earned and cost of buying or producing",
+    "examples": [
+      "The café recorded a healthy annual profit after reducing food waste.",
+      "They reinvested fifty percent of their net profits into research and development."
+    ],
+    "synonyms": [
+      "gain",
+      "surplus",
+      "return"
+    ],
+    "antonyms": [
+      "loss",
+      "deficit"
+    ],
+    "memoryTip": "Revenue minus expenses leaves you with the profit in your pocket.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-055",
+    "word": "employer",
+    "phonetic": "/ɪmˈplɔɪ.ər/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Business",
+    "meaning": "a person or organization that employs people and pays them wages",
+    "examples": [
+      "A progressive employer provides comprehensive healthcare and flexible working hours.",
+      "The tech company is recognized as one of the country's top graduate employers."
+    ],
+    "synonyms": [
+      "boss",
+      "manager",
+      "firm"
+    ],
+    "antonyms": [
+      "employee",
+      "worker",
+      "laborer"
+    ],
+    "memoryTip": "The employer hires, whereas the employee is hired.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-056",
+    "word": "career",
+    "phonetic": "/kəˈrɪər/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Business",
+    "meaning": "an occupation undertaken for a significant period of a person's life with opportunities for progress",
+    "examples": [
+      "She built an illustrious thirty-year career in international commercial law.",
+      "University internships give undergraduates early insights into prospective careers."
+    ],
+    "synonyms": [
+      "vocation",
+      "profession",
+      "calling"
+    ],
+    "antonyms": [],
+    "memoryTip": "Think of a road or career track you travel along across your working life.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-057",
+    "word": "launch",
+    "phonetic": "/lɔːntʃ/",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "category": "Business",
+    "meaning": "to start or set in motion an activity, enterprise, or systematically release a product",
+    "examples": [
+      "The studio plans to launch their new educational mobile app next month.",
+      "They held a press conference in Tokyo to launch the global marketing campaign."
+    ],
+    "synonyms": [
+      "introduce",
+      "release",
+      "inaugurate"
+    ],
+    "antonyms": [
+      "withdraw",
+      "cancel",
+      "terminate"
+    ],
+    "memoryTip": "Like launching a rocket into space — propelling a new venture out into the world.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-058",
+    "word": "invest",
+    "phonetic": "/ɪnˈvɛst/",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "category": "Business",
+    "meaning": "to expend money with the expectation of achieving a profit or material result",
+    "examples": [
+      "Angel venture funds often invest in promising early-stage clean-energy startups.",
+      "It is wise to invest time in mastering English vocabulary while you are still at university."
+    ],
+    "synonyms": [
+      "fund",
+      "venture",
+      "commit capital"
+    ],
+    "antonyms": [
+      "divest",
+      "withdraw",
+      "squander"
+    ],
+    "memoryTip": "Putting resources 'in' today so value grows in the future.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-059",
+    "word": "manage",
+    "phonetic": "/ˈmæn.ɪdʒ/",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "category": "Business",
+    "meaning": "to be in charge of a business, project, or group of staff; administer and regulate",
+    "examples": [
+      "She was promoted to manage a multidisciplinary team of twelve software engineers.",
+      "Learning to manage cash flow effectively determines whether a small business survives."
+    ],
+    "synonyms": [
+      "supervise",
+      "direct",
+      "administer"
+    ],
+    "antonyms": [
+      "mismanage",
+      "neglect"
+    ],
+    "memoryTip": "Having your hands ('manus' in Latin) on the wheel to guide operations.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-060",
+    "word": "contract",
+    "phonetic": "/ˈkɒn.trækt/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Business",
+    "meaning": "a written or spoken agreement, especially one concerning employment, sales, or tenancy, enforceable by law",
+    "examples": [
+      "Both companies signed a five-year contract to supply solar panels across the region.",
+      "Make sure you consult a qualified legal advisor before signing any binding contract."
+    ],
+    "synonyms": [
+      "agreement",
+      "pact",
+      "covenant"
+    ],
+    "antonyms": [
+      "breach"
+    ],
+    "memoryTip": "Draws parties 'together' (con-) into a legal commitment.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-061",
+    "word": "revenue",
+    "phonetic": "/ˈrɛv.ən.juː/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Business",
+    "meaning": "the total amount of income generated by the sale of goods or services related to operations",
+    "examples": [
+      "Quarterly advertising revenue exceeded company forecasts by fifteen percent.",
+      "Diversifying their offerings helped the firm maintain steady revenue despite the downturn."
+    ],
+    "synonyms": [
+      "income",
+      "earnings",
+      "turnover"
+    ],
+    "antonyms": [
+      "expenditure",
+      "expenses"
+    ],
+    "memoryTip": "From French 'revenir' (to return) — the money that returns to the business from sales.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-062",
+    "word": "strategy",
+    "phonetic": "/ˈstræt.ə.dʒi/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Business",
+    "meaning": "a plan of action designed to achieve a long-term or overall aim",
+    "examples": [
+      "Our digital growth strategy prioritizes customer retention over costly ad campaigns.",
+      "The executive board met in Geneva to formulate their five-year expansion strategy."
+    ],
+    "synonyms": [
+      "master plan",
+      "tactic",
+      "roadmap"
+    ],
+    "antonyms": [
+      "improvisation",
+      "aimlessness"
+    ],
+    "memoryTip": "Originally a general's war plan (from Greek 'strategos') — your master plan to win.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-063",
+    "word": "competitive",
+    "phonetic": "/kəmˈpɛt.ə.tɪv/",
+    "partOfSpeech": "adjective",
+    "level": "Intermediate",
+    "category": "Business",
+    "meaning": "as good as or better than others of a comparable nature; eager to succeed",
+    "examples": [
+      "The retailer offers highly competitive prices without sacrificing product craftsmanship.",
+      "In a competitive job market, strong communication and technical skills set you apart."
+    ],
+    "synonyms": [
+      "ambitious",
+      "aggressive",
+      "cutthroat"
+    ],
+    "antonyms": [
+      "uncompetitive",
+      "passive",
+      "indifferent"
+    ],
+    "memoryTip": "Driven to compete and win against rival contenders.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-064",
+    "word": "collaborate",
+    "phonetic": "/kəˈlæb.ə.reɪt/",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "category": "Business",
+    "meaning": "to work jointly on an activity or project to produce or create something",
+    "examples": [
+      "The two pharmaceutical labs chose to collaborate on developing an affordable vaccine.",
+      "Graphic designers and frontend developers must collaborate closely on user interfaces."
+    ],
+    "synonyms": [
+      "cooperate",
+      "team up",
+      "pool resources"
+    ],
+    "antonyms": [
+      "compete",
+      "clash",
+      "oppose"
+    ],
+    "memoryTip": "'Co-' (together) + 'labor' (work) = working together.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-065",
+    "word": "stakeholder",
+    "phonetic": "/ˈsteɪkˌhoʊl.dər/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Business",
+    "meaning": "a person, group, or organization with an interest or concern in something, especially a business",
+    "examples": [
+      "The CEO scheduled town halls to address questions from every key corporate stakeholder.",
+      "Local community members are vital stakeholders in the coastal wind turbine project."
+    ],
+    "synonyms": [
+      "shareholder",
+      "interested party",
+      "investor"
+    ],
+    "antonyms": [],
+    "memoryTip": "Holding a 'stake' (interest or investment) in the outcome of an enterprise.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-066",
+    "word": "expand",
+    "phonetic": "/ɪkˈspænd/",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "category": "Business",
+    "meaning": "to become or make larger or more extensive, especially a commercial operation",
+    "examples": [
+      "The coffee chain plans to expand into three neighboring Southeast Asian nations.",
+      "They added five new warehouses to expand their nationwide logistics capacity."
+    ],
+    "synonyms": [
+      "broaden",
+      "enlarge",
+      "scale up"
+    ],
+    "antonyms": [
+      "contract",
+      "shrink",
+      "downsize"
+    ],
+    "memoryTip": "Spread your wings out — expanding grows your footprint and reach.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-067",
+    "word": "forecast",
+    "phonetic": "/ˈfɔːr.kæst/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Business",
+    "meaning": "a calculation or estimate of future events, especially coming weather or financial trends",
+    "examples": [
+      "The chief financial officer presented an optimistic revenue forecast for the third quarter.",
+      "Supply chain forecasts help distributors stock sufficient inventory before holiday rushes."
+    ],
+    "synonyms": [
+      "prediction",
+      "projection",
+      "prognosis"
+    ],
+    "antonyms": [],
+    "memoryTip": "'Fore' (before) + 'cast' (throw) = throwing your vision forward into the future.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-068",
+    "word": "venture",
+    "phonetic": "/ˈvɛn.tʃər/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Business",
+    "meaning": "a risky or daring journey or an undertaking typically involving uncertainty and financial risk",
+    "examples": [
+      "Their latest commercial venture into autonomous delivery drones attracted global investors.",
+      "Starting your own design agency is an exciting venture that requires resilience."
+    ],
+    "synonyms": [
+      "enterprise",
+      "undertaking",
+      "investment"
+    ],
+    "antonyms": [
+      "sure thing",
+      "certainty"
+    ],
+    "memoryTip": "Think of an 'adventure' — an enterprise where you venture into unknown territory.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-069",
+    "word": "acquisition",
+    "phonetic": "/ˌæk.wɪˈzɪʃ.ən/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Business",
+    "meaning": "an asset or object bought or obtained, typically by a business buying another company",
+    "examples": [
+      "The conglomerate finalized its billion-dollar acquisition of the cloud software firm.",
+      "Through strategic business acquisitions, the company rapidly entered foreign markets."
+    ],
+    "synonyms": [
+      "purchase",
+      "takeover",
+      "procurement"
+    ],
+    "antonyms": [
+      "divestment",
+      "sale",
+      "liquidation"
+    ],
+    "memoryTip": "To 'acquire' something is to take ownership — acquisition is the finalized takeover.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-070",
+    "word": "transaction",
+    "phonetic": "/trænˈzæk.ʃən/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Business",
+    "meaning": "an instance of buying or selling something; a business deal",
+    "examples": [
+      "Contactless payment cards process the financial transaction in a fraction of a second.",
+      "All foreign exchange transactions are recorded in the central banking ledger."
+    ],
+    "synonyms": [
+      "deal",
+      "negotiation",
+      "settlement"
+    ],
+    "antonyms": [],
+    "memoryTip": "'Trans-' (across) + 'action' — an exchange of value taking place across two parties.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-071",
+    "word": "entrepreneur",
+    "phonetic": "/ˌɒn.trə.prəˈnɜːr/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Business",
+    "meaning": "a person who organizes and operates a business or businesses, taking on greater than normal financial risks",
+    "examples": [
+      "The young tech entrepreneur founded three profitable mobile apps before turning thirty.",
+      "Governments foster economic innovation by providing grants to aspiring entrepreneurs."
+    ],
+    "synonyms": [
+      "business founder",
+      "innovator",
+      "tycoon"
+    ],
+    "antonyms": [
+      "employee"
+    ],
+    "memoryTip": "From French 'entreprendre' (to undertake) — someone who takes the risk to launch new ideas.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-072",
+    "word": "liquidate",
+    "phonetic": "/ˈlɪk.wɪ.deɪt/",
+    "partOfSpeech": "verb",
+    "level": "Advanced",
+    "category": "Business",
+    "meaning": "to wind up the affairs of a company or convert assets into readily spendable cash",
+    "examples": [
+      "The bankrupt retail chain had to liquidate its warehouse inventory at huge discounts.",
+      "Investors chose to liquidate their shareholdings to raise cash during the market panic."
+    ],
+    "synonyms": [
+      "cash in",
+      "dissolve",
+      "settle"
+    ],
+    "antonyms": [
+      "invest",
+      "acquire",
+      "build up"
+    ],
+    "memoryTip": "Turn solid assets (like buildings or machinery) into liquid cash.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-073",
+    "word": "feasibility",
+    "phonetic": "/ˌfiː.zəˈbɪl.ə.ti/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Business",
+    "meaning": "the state or degree of being easily or conveniently done; practical viability",
+    "examples": [
+      "Engineers conducted a detailed feasibility study before approving tunnel construction.",
+      "The feasibility of the mobile subscription model was proven by rising conversion rates."
+    ],
+    "synonyms": [
+      "viability",
+      "practicability",
+      "plausibility"
+    ],
+    "antonyms": [
+      "impossibility",
+      "unfeasibility",
+      "impracticability"
+    ],
+    "memoryTip": "Is it feasible? (Can it actually be done in the real world with available resources?)",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-074",
+    "word": "monopoly",
+    "phonetic": "/məˈnɒp.əl.i/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Business",
+    "meaning": "the exclusive possession or control of the supply of or trade in a commodity or service",
+    "examples": [
+      "Anti-trust regulators filed a lawsuit to break up the national railway monopoly.",
+      "Holding a patent gave the pharmaceutical company a temporary monopoly on the medicine."
+    ],
+    "synonyms": [
+      "cornering of the market",
+      "exclusivity",
+      "dominance"
+    ],
+    "antonyms": [
+      "competition",
+      "open market"
+    ],
+    "memoryTip": "'Mono' means one — one single player controls the entire market board.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-075",
+    "word": "conglomerate",
+    "phonetic": "/kənˈɡlɒm.ər.ət/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Business",
+    "meaning": "a number of different things or parts that are put or grouped together to form a whole, especially a large corporation",
+    "examples": [
+      "The multinational media conglomerate owns newspaper networks, film studios, and streaming apps.",
+      "A family-owned conglomerate expanded its portfolio into shipping, real estate, and hotels."
+    ],
+    "synonyms": [
+      "multinational",
+      "corporation",
+      "syndicate"
+    ],
+    "antonyms": [
+      "subsidiary",
+      "single-unit business"
+    ],
+    "memoryTip": "Glomerate means clustered like a ball — a huge corporate cluster of diverse businesses.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-076",
+    "word": "luggage",
+    "phonetic": "/ˈlʌɡ.ɪdʒ/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Travel",
+    "meaning": "suitcases or other bags in which to pack personal belongings for traveling",
+    "examples": [
+      "Airline staff placed priority baggage tags on our checked-in luggage.",
+      "Traveling with only carry-on luggage makes navigating bustling terminals so much easier."
+    ],
+    "synonyms": [
+      "baggage",
+      "suitcases",
+      "belongings"
+    ],
+    "antonyms": [],
+    "memoryTip": "Think of what you 'lug' around when setting off on a long vacation.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-077",
+    "word": "passport",
+    "phonetic": "/ˈpɑːs.pɔːrt/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Travel",
+    "meaning": "an official government document certifying identity and citizenship, permitting travel abroad",
+    "examples": [
+      "Keep your passport and boarding pass in a secure zipped pouch inside your jacket.",
+      "She needed to renew her biometric passport before flying to Paris for the conference."
+    ],
+    "synonyms": [
+      "travel document",
+      "identification",
+      "visa document"
+    ],
+    "antonyms": [],
+    "memoryTip": "A document that grants you permission to 'pass' through the international 'port'.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-078",
+    "word": "ticket",
+    "phonetic": "/ˈtɪk.ɪt/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Travel",
+    "meaning": "a certificate or token showing that a fare or admission fee has been paid",
+    "examples": [
+      "He showed his electronic train ticket on his smartphone to the ticket collector.",
+      "Booking your flight tickets several weeks ahead can save hundreds of pounds."
+    ],
+    "synonyms": [
+      "pass",
+      "voucher",
+      "boarding pass"
+    ],
+    "antonyms": [],
+    "memoryTip": "A ticket gives you the green 'tick' to board the train or airplane.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-079",
+    "word": "airport",
+    "phonetic": "/ˈɛər.pɔːrt/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Travel",
+    "meaning": "a complex of runways and buildings for the takeoff, landing, and maintenance of civil aircraft",
+    "examples": [
+      "We took the express metro line directly from the city center to the airport terminal.",
+      "Security checkpoints at international airports require electronics to be screened."
+    ],
+    "synonyms": [
+      "airfield",
+      "aerodrome",
+      "airstrip"
+    ],
+    "antonyms": [],
+    "memoryTip": "A port designed for air travel, just as a seaport serves ocean ships.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-080",
+    "word": "journey",
+    "phonetic": "/ˈdʒɜːr.ni/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Travel",
+    "meaning": "an act of traveling from one place to another, especially over a long distance",
+    "examples": [
+      "The overnight train journey through the snow-covered mountains was breathtaking.",
+      "Learning a foreign language is a lifelong journey requiring patience and curiosity."
+    ],
+    "synonyms": [
+      "voyage",
+      "trip",
+      "expedition"
+    ],
+    "antonyms": [],
+    "memoryTip": "Originally meant a single 'day's travel' (from French 'journée' = day).",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-081",
+    "word": "hotel",
+    "phonetic": "/hoʊˈtɛl/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Travel",
+    "meaning": "an establishment providing accommodation, meals, and other services for travelers and tourists",
+    "examples": [
+      "Our boutique hotel in Rome was situated just a short stroll from the Colosseum.",
+      "The hotel concierge recommended a charming local trattoria for dinner."
+    ],
+    "synonyms": [
+      "inn",
+      "lodge",
+      "resort"
+    ],
+    "antonyms": [],
+    "memoryTip": "Shares origins with 'hospitality' — a welcoming place to rest your head.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-082",
+    "word": "visit",
+    "phonetic": "/ˈvɪz.ɪt/",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "category": "Travel",
+    "meaning": "to go to see and spend time with someone socially or go to see a place as a tourist",
+    "examples": [
+      "We took advantage of the sunny weekend to visit the ancient coastal fortress.",
+      "International tourists love to visit Kyoto during the spring cherry blossom season."
+    ],
+    "synonyms": [
+      "tour",
+      "explore",
+      "drop in on"
+    ],
+    "antonyms": [],
+    "memoryTip": "From Latin 'visere' (to look at or view) — seeing sights with your own eyes.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-083",
+    "word": "arrive",
+    "phonetic": "/əˈraɪv/",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "category": "Travel",
+    "meaning": "to reach a destination at the end of a journey or a stage of a journey",
+    "examples": [
+      "Our flight is scheduled to arrive in London Heathrow at six tomorrow morning.",
+      "When you arrive at the hotel lobby, message me so we can meet for coffee."
+    ],
+    "synonyms": [
+      "reach",
+      "land",
+      "touch down"
+    ],
+    "antonyms": [
+      "depart",
+      "leave",
+      "exit"
+    ],
+    "memoryTip": "Originally meant coming to shore ('ad ripam') — reaching the safe banks of your destination.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-084",
+    "word": "foreign",
+    "phonetic": "/ˈfɒr.ɪn/",
+    "partOfSpeech": "adjective",
+    "level": "Beginner",
+    "category": "Travel",
+    "meaning": "of, from, in, or characteristic of a country or language other than one's own",
+    "examples": [
+      "Learning a foreign language broadens your worldview and enriches your travels.",
+      "Exchange students quickly adapt to the customs and cuisine of foreign cultures."
+    ],
+    "synonyms": [
+      "alien",
+      "overseas",
+      "exotic"
+    ],
+    "antonyms": [
+      "native",
+      "domestic",
+      "local"
+    ],
+    "memoryTip": "Related to 'outside' — originating outside your home borders.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-085",
+    "word": "explore",
+    "phonetic": "/ɪkˈsplɔːr/",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "category": "Travel",
+    "meaning": "to travel in or through an unfamiliar area in order to learn about it",
+    "examples": [
+      "We spent three days renting bicycles to explore the historic alleyways of Seville.",
+      "Marine biologists dive into ocean trenches to explore unseen deep-sea habitats."
+    ],
+    "synonyms": [
+      "investigate",
+      "discover",
+      "survey"
+    ],
+    "antonyms": [
+      "ignore",
+      "overlook"
+    ],
+    "memoryTip": "Step outside the beaten path to explore and make fresh discoveries.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-086",
+    "word": "souvenir",
+    "phonetic": "/ˌsuː.vəˈnɪər/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Travel",
+    "meaning": "a thing that is kept as a reminder of a person, place, or event",
+    "examples": [
+      "I bought a miniature wooden windmill in Amsterdam as a travel souvenir.",
+      "Her travel shelf is adorned with handcrafted souvenirs collected from six continents."
+    ],
+    "synonyms": [
+      "memento",
+      "keepsake",
+      "token"
+    ],
+    "antonyms": [],
+    "memoryTip": "From French 'se souvenir' (to remember) — a keepsake that sparks fond memories.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-087",
+    "word": "destination",
+    "phonetic": "/ˌdɛs.tɪˈneɪ.ʃən/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Travel",
+    "meaning": "the place to which someone or something is going or being sent",
+    "examples": [
+      "The Maldives remains one of the world's most sought-after honeymoon destinations.",
+      "After sixteen hours on the road, the exhausted hikers finally reached their destination."
+    ],
+    "synonyms": [
+      "journey's end",
+      "target",
+      "terminus"
+    ],
+    "antonyms": [
+      "origin",
+      "starting point"
+    ],
+    "memoryTip": "Related to 'destiny' — the final end-point you are destined to reach.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-088",
+    "word": "passenger",
+    "phonetic": "/ˈpæs.ɪn.dʒər/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Travel",
+    "meaning": "a traveler on a public or private conveyance other than the driver, pilot, or crew",
+    "examples": [
+      "The flight attendant instructed passengers to fasten their seatbelts before landing.",
+      "Subway stations in Tokyo handle millions of commuter passengers every weekday."
+    ],
+    "synonyms": [
+      "commuter",
+      "traveler",
+      "voyager"
+    ],
+    "antonyms": [
+      "driver",
+      "pilot",
+      "captain"
+    ],
+    "memoryTip": "Someone passing along the journey under another person's steerage.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-089",
+    "word": "departure",
+    "phonetic": "/dɪˈpɑːr.tʃər/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Travel",
+    "meaning": "the action of leaving, especially to start a journey",
+    "examples": [
+      "Check the departure monitor in the terminal to verify your flight's gate number.",
+      "Their early morning departure from port caught the rising sunrise across the bay."
+    ],
+    "synonyms": [
+      "leaving",
+      "takeoff",
+      "exit"
+    ],
+    "antonyms": [
+      "arrival",
+      "landing",
+      "entrance"
+    ],
+    "memoryTip": "To 'depart' is to leave — departure is your journey taking off.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-090",
+    "word": "commute",
+    "phonetic": "/kəˈmjuːt/",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "category": "Travel",
+    "meaning": "to travel some distance between one's home and place of work on a regular basis",
+    "examples": [
+      "Thousands of professionals commute into central London by suburban rail every day.",
+      "She uses her forty-minute morning commute to listen to educational audiobooks."
+    ],
+    "synonyms": [
+      "travel back and forth",
+      "transit",
+      "journey"
+    ],
+    "antonyms": [],
+    "memoryTip": "A daily recurring trip between home and work.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-091",
+    "word": "itinerary",
+    "phonetic": "/aɪˈtɪn.ər.ər.i/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Travel",
+    "meaning": "a planned route or journey, often with a detailed list of dates, times, and activities",
+    "examples": [
+      "Our travel agent emailed a detailed 10-day itinerary for our tour across Scotland.",
+      "Leave some free afternoons in your holiday itinerary for spontaneous discoveries."
+    ],
+    "synonyms": [
+      "travel plan",
+      "schedule",
+      "route"
+    ],
+    "antonyms": [],
+    "memoryTip": "From Latin 'iter' (journey) — the step-by-step itinerary maps the journey.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-092",
+    "word": "reservation",
+    "phonetic": "/ˌrɛz.ərˈveɪ.ʃən/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Travel",
+    "meaning": "an arrangement whereby something, especially a room or seat, is booked in advance",
+    "examples": [
+      "I made a dinner reservation for four at the harbor seafood restaurant.",
+      "You will receive an instant confirmation code once your hotel reservation is processed."
+    ],
+    "synonyms": [
+      "booking",
+      "pre-booking",
+      "arrangement"
+    ],
+    "antonyms": [
+      "cancellation"
+    ],
+    "memoryTip": "A seat or room 'reserved' exclusively under your name.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-093",
+    "word": "expedition",
+    "phonetic": "/ˌɛk.spəˈdɪʃ.ən/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Travel",
+    "meaning": "a journey or voyage undertaken by a group of people with a particular purpose, especially exploration or research",
+    "examples": [
+      "The scientific expedition collected ice core samples from glaciers in Antarctica.",
+      "Mountaineers spent six months preparing for their grueling expedition up K2."
+    ],
+    "synonyms": [
+      "voyage",
+      "mission",
+      "safari"
+    ],
+    "antonyms": [],
+    "memoryTip": "Latin 'expedire' (to set free / go forth) — venturing on a daring trek.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-094",
+    "word": "hospitable",
+    "phonetic": "/hɒsˈpɪt.ə.bəl/",
+    "partOfSpeech": "adjective",
+    "level": "Advanced",
+    "category": "Travel",
+    "meaning": "friendly and welcoming to strangers or guests; having an environment where living is pleasant",
+    "examples": [
+      "The islanders were incredibly hospitable, treating visitors to homecooked feasts.",
+      "A warm and hospitable atmosphere made the remote mountain guesthouse unforgettable."
+    ],
+    "synonyms": [
+      "welcoming",
+      "genial",
+      "cordial"
+    ],
+    "antonyms": [
+      "inhospitable",
+      "unwelcoming",
+      "hostile"
+    ],
+    "memoryTip": "Shares root with hospital and host — making a guest feel cared for and at home.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-095",
+    "word": "wanderlust",
+    "phonetic": "/ˈwɒn.dər.lʌst/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Travel",
+    "meaning": "a strong, innate desire or impulse to wander or travel and explore the world",
+    "examples": [
+      "Her incurable wanderlust led her to backpack solo across Southeast Asia for a year.",
+      "Looking through vintage travel magazines sparked an intense wanderlust inside him."
+    ],
+    "synonyms": [
+      "restlessness",
+      "passion for travel",
+      "itchy feet"
+    ],
+    "antonyms": [
+      "homesickness"
+    ],
+    "memoryTip": "From German 'wandern' (wander) + 'lust' (desire) = a deep thirst to wander the globe.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-096",
+    "word": "picturesque",
+    "phonetic": "/ˌpɪk.tʃərˈɛsk/",
+    "partOfSpeech": "adjective",
+    "level": "Advanced",
+    "category": "Travel",
+    "meaning": "visually attractive, especially in a quaint or charming style resembling a picture",
+    "examples": [
+      "The train passed through picturesque fishing villages perched on dramatic cliffs.",
+      "Cobblestone streets and blooming balconies make this alpine town remarkably picturesque."
+    ],
+    "synonyms": [
+      "scenic",
+      "charming",
+      "idyllic"
+    ],
+    "antonyms": [
+      "unsightly",
+      "bleak",
+      "drab"
+    ],
+    "memoryTip": "Picture-esque — so scenic and charming it looks like a painted postcard.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-097",
+    "word": "layover",
+    "phonetic": "/ˈleɪˌoʊ.vər/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Travel",
+    "meaning": "a period of rest or waiting between stages of a long journey, especially between flights",
+    "examples": [
+      "We had a four-hour layover in Doha, allowing us to stretch and visit the airport garden.",
+      "Choosing a flight with an overnight layover can often reduce international airfares."
+    ],
+    "synonyms": [
+      "stopover",
+      "transit wait",
+      "break"
+    ],
+    "antonyms": [
+      "direct flight",
+      "non-stop trip"
+    ],
+    "memoryTip": "You 'lay over' between connecting flights while waiting for your next leg.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-098",
+    "word": "pilgrimage",
+    "phonetic": "/ˈpɪl.ɡrɪ.mɪdʒ/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Travel",
+    "meaning": "a journey to a place associated with someone or something well known or respected, often of moral or religious significance",
+    "examples": [
+      "Every year, thousands of literature lovers make a pilgrimage to Shakespeare's birthplace.",
+      "Walking the Camino de Santiago is a traditional pilgrimage that spans northern Spain."
+    ],
+    "synonyms": [
+      "holy journey",
+      "expedition",
+      "mission"
+    ],
+    "antonyms": [],
+    "memoryTip": "A pilgrim travels with reverence to an inspiring, historic, or holy destination.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-099",
+    "word": "transit",
+    "phonetic": "/ˈtræn.zɪt/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Travel",
+    "meaning": "the carrying of people or goods from one place to another; passage through an intermediate area",
+    "examples": [
+      "International passengers in transit do not require a local visa if they stay in the airport.",
+      "The rapid transit train network transports over two million urban riders every morning."
+    ],
+    "synonyms": [
+      "transport",
+      "passage",
+      "conveyance"
+    ],
+    "antonyms": [],
+    "memoryTip": "'Trans' means across — moving people across a city or country.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-100",
+    "word": "navigation",
+    "phonetic": "/ˌnæv.ɪˈɡeɪ.ʃən/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Travel",
+    "meaning": "the process or activity of accurately ascertaining one's position and planning and following a route",
+    "examples": [
+      "Modern satellite navigation systems calculate the fastest driving route in real time.",
+      "Early Polynesian sailors mastered celestial navigation by reading ocean swells and stars."
+    ],
+    "synonyms": [
+      "route-finding",
+      "guidance",
+      "steering"
+    ],
+    "antonyms": [],
+    "memoryTip": "Latin 'navis' (ship) — steering a vessel or vehicle safely along its course.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-101",
+    "word": "happy",
+    "phonetic": "/ˈhæp.i/",
+    "partOfSpeech": "adjective",
+    "level": "Beginner",
+    "category": "Emotions",
+    "meaning": "feeling or showing pleasure, contentment, or joy",
+    "examples": [
+      "The children were overjoyed and happy when the summer holidays finally began.",
+      "Hearing from an old school friend after years apart made her truly happy."
+    ],
+    "synonyms": [
+      "joyful",
+      "delighted",
+      "content"
+    ],
+    "antonyms": [
+      "sad",
+      "miserable",
+      "depressed"
+    ],
+    "memoryTip": "Good things 'happen' (same root) that lift your spirits into a happy state.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-102",
+    "word": "angry",
+    "phonetic": "/ˈæŋ.ɡri/",
+    "partOfSpeech": "adjective",
+    "level": "Beginner",
+    "category": "Emotions",
+    "meaning": "having a strong feeling of displeasure, annoyance, or hostility",
+    "examples": [
+      "He felt angry when he discovered that his bicycle had been damaged overnight.",
+      "Taking deep breaths helped him cool off before responding in an angry tone."
+    ],
+    "synonyms": [
+      "furious",
+      "irate",
+      "enraged"
+    ],
+    "antonyms": [
+      "calm",
+      "peaceful",
+      "serene"
+    ],
+    "memoryTip": "Anger flares up like a sudden spark — take a breath before you speak.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-103",
+    "word": "nervous",
+    "phonetic": "/ˈnɜːr.vəs/",
+    "partOfSpeech": "adjective",
+    "level": "Beginner",
+    "category": "Emotions",
+    "meaning": "easily agitated or alarmed; tending to be anxious or apprehensive",
+    "examples": [
+      "She felt slightly nervous before walking onto the auditorium stage to give her speech.",
+      "His nervous tapping on the table showed how worried he was about the exam results."
+    ],
+    "synonyms": [
+      "tense",
+      "jittery",
+      "uneasy"
+    ],
+    "antonyms": [
+      "composed",
+      "relaxed",
+      "confident"
+    ],
+    "memoryTip": "Your physical 'nerves' tingle when adrenaline surges before a big challenge.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-104",
+    "word": "proud",
+    "phonetic": "/praʊd/",
+    "partOfSpeech": "adjective",
+    "level": "Beginner",
+    "category": "Emotions",
+    "meaning": "feeling deep pleasure or satisfaction as a result of one's own achievements or qualities",
+    "examples": [
+      "Her parents were immensely proud when she graduated at the top of her class.",
+      "He took proud ownership of his hand-built wooden bookshelf in the living room."
+    ],
+    "synonyms": [
+      "gratified",
+      "honored",
+      "triumphant"
+    ],
+    "antonyms": [
+      "ashamed",
+      "humiliated",
+      "embarrassed"
+    ],
+    "memoryTip": "Standing tall with your chin held high after accomplishing something worthy.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-105",
+    "word": "lonely",
+    "phonetic": "/ˈloʊn.li/",
+    "partOfSpeech": "adjective",
+    "level": "Beginner",
+    "category": "Emotions",
+    "meaning": "sad because one has no friends or company; isolated",
+    "examples": [
+      "Moving to a foreign city alone made him feel lonely during his first month.",
+      "A warm telephone call from home cheered her up when she felt lonely."
+    ],
+    "synonyms": [
+      "isolated",
+      "solitary",
+      "lonesome"
+    ],
+    "antonyms": [
+      "accompanied",
+      "popular",
+      "connected"
+    ],
+    "memoryTip": "'Lone' means by oneself — feeling sorrowful in your solitary state.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-106",
+    "word": "smile",
+    "phonetic": "/smaɪl/",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "category": "Emotions",
+    "meaning": "to form one's features into an expression of pleasure, amusement, or friendliness",
+    "examples": [
+      "She couldn't help but smile when she saw the puppy playing with the ball.",
+      "A warm, genuine smile immediately puts strangers and new classmates at ease."
+    ],
+    "synonyms": [
+      "beam",
+      "grin",
+      "smirk"
+    ],
+    "antonyms": [
+      "frown",
+      "scowl"
+    ],
+    "memoryTip": "Turn that frown upside down — a smile is a curve that sets everything straight.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-107",
+    "word": "worry",
+    "phonetic": "/ˈwʌr.i/",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "category": "Emotions",
+    "meaning": "to feel or cause to feel anxious or troubled about actual or potential problems",
+    "examples": [
+      "Try not to worry about things you cannot control; focus on your immediate preparation.",
+      "Parents often worry when their teenagers drive on icy roads at night."
+    ],
+    "synonyms": [
+      "fret",
+      "brood",
+      "agonize"
+    ],
+    "antonyms": [
+      "relax",
+      "unwind"
+    ],
+    "memoryTip": "Worrying doesn't take away tomorrow's trouble, it only robs today's peace.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-108",
+    "word": "surprise",
+    "phonetic": "/sərˈpraɪz/",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "category": "Emotions",
+    "meaning": "an unexpected or astonishing event, fact, or thing; the feeling caused by it",
+    "examples": [
+      "Her colleagues threw a surprise farewell party in the rooftop lounge.",
+      "To our pleasant surprise, the rain stopped just as we arrived at the beach."
+    ],
+    "synonyms": [
+      "astonishment",
+      "wonder",
+      "shock"
+    ],
+    "antonyms": [
+      "anticipation",
+      "expectation"
+    ],
+    "memoryTip": "From French 'surprendre' (to overtake / catch unaware).",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-109",
+    "word": "grateful",
+    "phonetic": "/ˈɡreɪt.fəl/",
+    "partOfSpeech": "adjective",
+    "level": "Beginner",
+    "category": "Emotions",
+    "meaning": "feeling or showing an appreciation of kindness; thankful",
+    "examples": [
+      "I am deeply grateful to my mentor for guiding me through my university research.",
+      "The rescued hikers were intensely grateful to the helicopter mountain rescue crew."
+    ],
+    "synonyms": [
+      "thankful",
+      "appreciative",
+      "indebted"
+    ],
+    "antonyms": [
+      "ungrateful",
+      "unappreciative"
+    ],
+    "memoryTip": "Full of 'gratitude' — counting your blessings with a thankful heart.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-110",
+    "word": "confident",
+    "phonetic": "/ˈkɒn.fɪ.dənt/",
+    "partOfSpeech": "adjective",
+    "level": "Intermediate",
+    "category": "Emotions",
+    "meaning": "feeling or showing certainty about something or trust in oneself",
+    "examples": [
+      "Thorough preparation made her confident that she would ace the job interview.",
+      "He spoke in a calm, confident voice that reassured everyone in the boardroom."
+    ],
+    "synonyms": [
+      "self-assured",
+      "poised",
+      "certain"
+    ],
+    "antonyms": [
+      "insecure",
+      "doubtful",
+      "hesitant"
+    ],
+    "memoryTip": "Latin 'confidere' means to have full trust — having faith in your own preparation.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-111",
+    "word": "jealous",
+    "phonetic": "/ˈdʒɛl.əs/",
+    "partOfSpeech": "adjective",
+    "level": "Intermediate",
+    "category": "Emotions",
+    "meaning": "feeling or showing envy of someone or their achievements and advantages",
+    "examples": [
+      "Instead of feeling jealous of your peers' accomplishments, let their hard work inspire you.",
+      "He felt a pang of jealous sadness when he saw his friend's new sports car."
+    ],
+    "synonyms": [
+      "envious",
+      "covetous",
+      "begrudging"
+    ],
+    "antonyms": [
+      "supportive",
+      "unselfish",
+      "proud for someone"
+    ],
+    "memoryTip": "The 'green-eyed monster' — focusing bitterly on what others possess.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-112",
+    "word": "anxious",
+    "phonetic": "/ˈæŋk.ʃəs/",
+    "partOfSpeech": "adjective",
+    "level": "Intermediate",
+    "category": "Emotions",
+    "meaning": "experiencing worry, unease, or nervousness, typically about an imminent event or uncertain outcome",
+    "examples": [
+      "Applicants often feel anxious while waiting for admissions decisions to arrive.",
+      "Deep breathing exercises helped soothe her anxious thoughts before takeoff."
+    ],
+    "synonyms": [
+      "apprehensive",
+      "worried",
+      "uneasy"
+    ],
+    "antonyms": [
+      "serene",
+      "tranquil",
+      "unconcerned"
+    ],
+    "memoryTip": "Like the feeling of angst — a tightening sensation caused by anticipated trouble.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-113",
+    "word": "cheerful",
+    "phonetic": "/ˈtʃɪər.fəl/",
+    "partOfSpeech": "adjective",
+    "level": "Intermediate",
+    "category": "Emotions",
+    "meaning": "noticeably happy and optimistic; causing happiness by its nature or appearance",
+    "examples": [
+      "Her cheerful greeting always brightened the spirits of everyone in the office.",
+      "The clinic painted the pediatric ward in cheerful shades of yellow and sky blue."
+    ],
+    "synonyms": [
+      "buoyant",
+      "upbeat",
+      "sunny"
+    ],
+    "antonyms": [
+      "gloomy",
+      "morose",
+      "dour"
+    ],
+    "memoryTip": "Full of 'cheer' — like a joyful cheer at a celebration.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-114",
+    "word": "comfort",
+    "phonetic": "/ˈkʌm.fərt/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Emotions",
+    "meaning": "a state of physical ease and freedom from pain or constraint; consolation in grief",
+    "examples": [
+      "A warm mug of tea and a cozy blanket brought her instant comfort after a taxing day.",
+      "Friends gathered to offer words of comfort and solidarity during his bereavement."
+    ],
+    "synonyms": [
+      "solace",
+      "consolation",
+      "relief"
+    ],
+    "antonyms": [
+      "distress",
+      "discomfort",
+      "anguish"
+    ],
+    "memoryTip": "Latin 'com-' (together) + 'fortis' (strong) — bringing strength to someone in distress.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-115",
+    "word": "sympathy",
+    "phonetic": "/ˈsɪm.pə.θi/",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "category": "Emotions",
+    "meaning": "feelings of pity and sorrow for someone else's misfortune",
+    "examples": [
+      "We sent flowers and a handwritten card to express our deepest sympathy.",
+      "She listened to his troubles with sincere sympathy and offered a shoulder to lean on."
+    ],
+    "synonyms": [
+      "compassion",
+      "condolence",
+      "commiseration"
+    ],
+    "antonyms": [
+      "callousness",
+      "indifference",
+      "cruelty"
+    ],
+    "memoryTip": "'Sym-' (together) + 'pathos' (feeling) — feeling sorrow alongside another person.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-116",
+    "word": "frustrated",
+    "phonetic": "/frʌsˈtreɪ.tɪd/",
+    "partOfSpeech": "adjective",
+    "level": "Intermediate",
+    "category": "Emotions",
+    "meaning": "feeling or expressing distress and annoyance, especially because of inability to change or achieve something",
+    "examples": [
+      "The programmer felt frustrated after hunting down a subtle bug for four hours.",
+      "Delays at the airport left hundreds of frustrated travelers stranded overnight."
+    ],
+    "synonyms": [
+      "exasperated",
+      "annoyed",
+      "irritated"
+    ],
+    "antonyms": [
+      "fulfilled",
+      "satisfied",
+      "pleased"
+    ],
+    "memoryTip": "When obstacles 'frustrate' your plans, irritation builds up inside.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-117",
+    "word": "overwhelmed",
+    "phonetic": "/ˌoʊ.vərˈwɛlmd/",
+    "partOfSpeech": "adjective",
+    "level": "Intermediate",
+    "category": "Emotions",
+    "meaning": "having a strong emotional response; burdened by an excessive amount of something to deal with",
+    "examples": [
+      "With five deadlines falling on the same Friday, the student felt completely overwhelmed.",
+      "She was emotionally overwhelmed by the outpouring of love at her retirement dinner."
+    ],
+    "synonyms": [
+      "inundated",
+      "swamped",
+      "overcome"
+    ],
+    "antonyms": [
+      "composed",
+      "in control"
+    ],
+    "memoryTip": "Picture high waves surging over a boat — feeling submerged under too much weight.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-118",
+    "word": "ecstatic",
+    "phonetic": "/ɛkˈstæt.ɪk/",
+    "partOfSpeech": "adjective",
+    "level": "Advanced",
+    "category": "Emotions",
+    "meaning": "feeling or expressing overwhelming happiness or joyful excitement",
+    "examples": [
+      "The football fans were ecstatic when their team scored the winning goal in stoppage time.",
+      "She was ecstatic upon opening the envelope and finding her scholarship acceptance letter."
+    ],
+    "synonyms": [
+      "euphoric",
+      "thrilled",
+      "elated"
+    ],
+    "antonyms": [
+      "despondent",
+      "depressed",
+      "miserable"
+    ],
+    "memoryTip": "Full of 'ecstasy' — joy so intense you feel like dancing on clouds.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-119",
+    "word": "melancholic",
+    "phonetic": "/ˌmɛl.ənˈkɒl.ɪk/",
+    "partOfSpeech": "adjective",
+    "level": "Advanced",
+    "category": "Emotions",
+    "meaning": "feeling or expressing pensive, deep, and gentle sadness",
+    "examples": [
+      "The cello melody had a beautifully melancholic quality that moved the audience.",
+      "Watching autumn leaves drift down from the trees put her in a melancholic reverie."
+    ],
+    "synonyms": [
+      "wistful",
+      "somber",
+      "mournful"
+    ],
+    "antonyms": [
+      "exuberant",
+      "cheerful",
+      "gleeful"
+    ],
+    "memoryTip": "A sweet, reflective sadness — like listening to rain outside your window.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-120",
+    "word": "serenity",
+    "phonetic": "/səˈrɛn.ə.ti/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Emotions",
+    "meaning": "the state of being calm, peaceful, and untroubled",
+    "examples": [
+      "Walking along the misty lakeshore at dawn filled him with profound serenity.",
+      "Meditation and mindful breathing cultivate an inner serenity amidst chaotic workdays."
+    ],
+    "synonyms": [
+      "tranquility",
+      "peacefulness",
+      "calmness"
+    ],
+    "antonyms": [
+      "turmoil",
+      "chaos",
+      "agitation"
+    ],
+    "memoryTip": "From 'serene' — like a clear, cloudless sky without a ripple on the water.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-121",
+    "word": "resentment",
+    "phonetic": "/rɪˈzɛnt.mənt/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Emotions",
+    "meaning": "bitter indignation at having been treated unfairly",
+    "examples": [
+      "Harboring hidden resentment over past grievances will poison any working relationship.",
+      "He felt a lingering resentment when a colleague took credit for his analytical model."
+    ],
+    "synonyms": [
+      "bitterness",
+      "animosity",
+      "grudge"
+    ],
+    "antonyms": [
+      "forgiveness",
+      "goodwill",
+      "reconciliation"
+    ],
+    "memoryTip": "'Re-sent' (feeling the sting repeatedly) — re-feeling an old hurt like bitter poison.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-122",
+    "word": "compassion",
+    "phonetic": "/kəmˈpæʃ.ən/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Emotions",
+    "meaning": "sympathetic pity and concern for the sufferings or misfortunes of others, accompanied by a desire to help",
+    "examples": [
+      "Nurses in the pediatric ward treat their patients with boundless patience and compassion.",
+      "Genuine compassion moves beyond mere sympathy and takes active steps to relieve distress."
+    ],
+    "synonyms": [
+      "empathy",
+      "benevolence",
+      "kindness"
+    ],
+    "antonyms": [
+      "indifference",
+      "ruthlessness",
+      "callousness"
+    ],
+    "memoryTip": "Latin 'compati' (to suffer with) — suffering with someone and reaching out to heal.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-123",
+    "word": "apprehensive",
+    "phonetic": "/ˌæp.rɪˈhɛn.sɪv/",
+    "partOfSpeech": "adjective",
+    "level": "Advanced",
+    "category": "Emotions",
+    "meaning": "anxious or fearful that something bad or unpleasant will happen",
+    "examples": [
+      "He felt deeply apprehensive as the surgeon approached with the biopsy results.",
+      "First-time drivers are often apprehensive when merging onto high-speed motorways."
+    ],
+    "synonyms": [
+      "uneasy",
+      "fearful",
+      "jittery"
+    ],
+    "antonyms": [
+      "confident",
+      "unafraid",
+      "secure"
+    ],
+    "memoryTip": "You feel like trouble is about to reach out and apprehend (catch) you.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-124",
+    "word": "nostalgia",
+    "phonetic": "/nɒsˈtæl.dʒə/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Emotions",
+    "meaning": "a sentimental longing or wistful affection for the past, typically for a period with happy personal associations",
+    "examples": [
+      "Flipping through childhood photograph albums sparked a bittersweet wave of nostalgia.",
+      "The vinyl record store trades on nostalgia for classic music from the seventies."
+    ],
+    "synonyms": [
+      "reminiscence",
+      "wistfulness",
+      "yearning"
+    ],
+    "antonyms": [],
+    "memoryTip": "Greek 'nostos' (homecoming) + 'algos' (pain) — the sweet ache of remembering home.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-125",
+    "word": "empathy",
+    "phonetic": "/ˈɛm.pə.θi/",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "category": "Emotions",
+    "meaning": "the ability to understand and share the feelings of another from their perspective",
+    "examples": [
+      "Practicing empathy allows doctors to understand what a vulnerable patient is experiencing.",
+      "Great novelists possess the profound empathy needed to bring diverse characters to life."
+    ],
+    "synonyms": [
+      "understanding",
+      "sensitivity",
+      "fellow feeling"
+    ],
+    "antonyms": [
+      "callousness",
+      "insensitivity",
+      "apathy"
+    ],
+    "memoryTip": "Walking in another person's shoes — feeling what is inside ('em') their heart.",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-126",
+    "word": "computer",
+    "phonetic": "/kəmˈpjuːtər/",
+    "partOfSpeech": "noun",
+    "meaning": "An electronic device that processes data and performs tasks according to instructions.",
+    "examples": [
+      "She uses her computer to write assignments and research topics for class.",
+      "The office bought new computers to handle the growing workload efficiently."
+    ],
+    "synonyms": [
+      "PC",
+      "machine",
+      "processor"
+    ],
+    "antonyms": [],
+    "difficulty": "beginner",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'compute' + '-er': a device that computes (calculates) things.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-127",
+    "word": "phone",
+    "phonetic": "/foʊn/",
+    "partOfSpeech": "noun",
+    "meaning": "A device used to send and receive calls, messages, and data, especially a smartphone.",
+    "examples": [
+      "He forgot his phone at home and missed all the important notifications.",
+      "My phone's battery died just before I could board the train."
+    ],
+    "synonyms": [
+      "mobile",
+      "smartphone",
+      "handset"
+    ],
+    "antonyms": [],
+    "difficulty": "beginner",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "From Greek 'phonē' meaning 'voice' — a device for carrying your voice.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-128",
+    "word": "screen",
+    "phonetic": "/skriːn/",
+    "partOfSpeech": "noun",
+    "meaning": "The flat display surface of a device such as a phone, computer, or television.",
+    "examples": [
+      "She cracked her phone screen when it slipped out of her hand.",
+      "The professor projected the slides onto a large screen at the front of the lecture hall."
+    ],
+    "synonyms": [
+      "display",
+      "monitor",
+      "panel"
+    ],
+    "antonyms": [],
+    "difficulty": "beginner",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "A screen is what you 'see' — it screens (shows) information to you.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-129",
+    "word": "battery",
+    "phonetic": "/ˈbætəri/",
+    "partOfSpeech": "noun",
+    "meaning": "A container that stores electrical energy and powers a device.",
+    "examples": [
+      "Always charge your laptop battery before a long flight.",
+      "The smartwatch's battery lasts about two days on a single charge."
+    ],
+    "synonyms": [
+      "cell",
+      "power source",
+      "accumulator"
+    ],
+    "antonyms": [],
+    "difficulty": "beginner",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of a 'battery' as a 'store' of electricity — like a water tank for power.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-130",
+    "word": "internet",
+    "phonetic": "/ˈɪntərnet/",
+    "partOfSpeech": "noun",
+    "meaning": "A global network connecting millions of computers and devices to share information.",
+    "examples": [
+      "Without internet access, she could not submit her assignment online.",
+      "The internet has made it possible to communicate with anyone around the world instantly."
+    ],
+    "synonyms": [
+      "web",
+      "network",
+      "cyberspace"
+    ],
+    "antonyms": [],
+    "difficulty": "beginner",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Inter' (between) + 'net' (network): a network connecting networks.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-131",
+    "word": "click",
+    "phonetic": "/klɪk/",
+    "partOfSpeech": "verb",
+    "meaning": "To press a button on a mouse or tap an element on a touchscreen to perform an action.",
+    "examples": [
+      "Click the button to save your document before closing the program.",
+      "She clicked on the link and was redirected to the payment page."
+    ],
+    "synonyms": [
+      "tap",
+      "press",
+      "select"
+    ],
+    "antonyms": [],
+    "difficulty": "beginner",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "The word mimics the sound of pressing a mouse button — click!",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-132",
+    "word": "charge",
+    "phonetic": "/tʃɑːrdʒ/",
+    "partOfSpeech": "verb",
+    "meaning": "To supply electrical energy to a battery or device so it can operate.",
+    "examples": [
+      "He plugged his phone in to charge it overnight before the trip.",
+      "Make sure to fully charge your camera before the event starts."
+    ],
+    "synonyms": [
+      "power up",
+      "recharge",
+      "energize"
+    ],
+    "antonyms": [
+      "drain",
+      "deplete",
+      "discharge"
+    ],
+    "difficulty": "beginner",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "To 'charge' a device is to load it with energy — like charging a weapon.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-133",
+    "word": "search",
+    "phonetic": "/sɜːrtʃ/",
+    "partOfSpeech": "verb",
+    "meaning": "To look through data or the internet to find specific information.",
+    "examples": [
+      "She searched online for tutorials on how to use the new software.",
+      "You can search the database by entering keywords in the search bar."
+    ],
+    "synonyms": [
+      "look up",
+      "query",
+      "browse"
+    ],
+    "antonyms": [
+      "ignore",
+      "overlook"
+    ],
+    "difficulty": "beginner",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "To 'search' is to seek — think of a search engine like a digital detective.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-134",
+    "word": "network",
+    "phonetic": "/ˈnetwɜːrk/",
+    "partOfSpeech": "noun",
+    "meaning": "A system of connected computers or devices that can communicate and share resources.",
+    "examples": [
+      "The company's internal network allows employees to share files securely.",
+      "His phone automatically connected to the university Wi-Fi network on campus."
+    ],
+    "synonyms": [
+      "system",
+      "grid",
+      "infrastructure"
+    ],
+    "antonyms": [
+      "isolation",
+      "disconnect"
+    ],
+    "difficulty": "intermediate",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "A 'net' of 'work' — an interconnected web of devices doing work together.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-135",
+    "word": "device",
+    "phonetic": "/dɪˈvaɪs/",
+    "partOfSpeech": "noun",
+    "meaning": "A piece of electronic equipment designed to perform a specific function.",
+    "examples": [
+      "He carried three devices — a phone, a tablet, and a laptop — to the conference.",
+      "Smart home devices allow you to control your lights and thermostat remotely."
+    ],
+    "synonyms": [
+      "gadget",
+      "tool",
+      "apparatus"
+    ],
+    "antonyms": [],
+    "difficulty": "beginner",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "A 'device' is a tool devised (invented) for a specific purpose.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-136",
+    "word": "wireless",
+    "phonetic": "/ˈwaɪərləs/",
+    "partOfSpeech": "adjective",
+    "meaning": "Using radio waves instead of physical cables to transmit data or power.",
+    "examples": [
+      "The wireless headphones connect to the phone using Bluetooth.",
+      "Most modern offices are set up with wireless internet to avoid cable clutter."
+    ],
+    "synonyms": [
+      "cordless",
+      "untethered",
+      "Bluetooth"
+    ],
+    "antonyms": [
+      "wired",
+      "cabled",
+      "connected"
+    ],
+    "difficulty": "intermediate",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Literally 'without wire' — no cables needed for wireless connections.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-137",
+    "word": "software",
+    "phonetic": "/ˈsɒftweər/",
+    "partOfSpeech": "noun",
+    "meaning": "Programs and operating systems that run on a computer or device.",
+    "examples": [
+      "The latest software update fixed several bugs in the application.",
+      "She downloaded editing software to create short videos for her class project."
+    ],
+    "synonyms": [
+      "program",
+      "application",
+      "app"
+    ],
+    "antonyms": [
+      "hardware"
+    ],
+    "difficulty": "intermediate",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Soft' as in not physical: software is the intangible instructions, unlike 'hardware' you can touch.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-138",
+    "word": "storage",
+    "phonetic": "/ˈstɔːrɪdʒ/",
+    "partOfSpeech": "noun",
+    "meaning": "The capacity of a device to hold data, files, and applications.",
+    "examples": [
+      "Her phone's storage was full, so she deleted old photos to free up space.",
+      "Cloud storage lets you save files online and access them from any device."
+    ],
+    "synonyms": [
+      "memory",
+      "capacity",
+      "drive"
+    ],
+    "antonyms": [],
+    "difficulty": "intermediate",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Storage 'stores' data — think of it as a digital warehouse.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-139",
+    "word": "secure",
+    "phonetic": "/sɪˈkjʊər/",
+    "partOfSpeech": "adjective",
+    "meaning": "Protected against unauthorized access, threats, or risks.",
+    "examples": [
+      "Always use a secure password that combines letters, numbers, and symbols.",
+      "The app stores your personal data on secure servers with end-to-end encryption."
+    ],
+    "synonyms": [
+      "safe",
+      "protected",
+      "encrypted"
+    ],
+    "antonyms": [
+      "vulnerable",
+      "exposed",
+      "unsafe"
+    ],
+    "difficulty": "intermediate",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of a 'secure' lock — it keeps data locked away from intruders.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-140",
+    "word": "download",
+    "phonetic": "/ˈdaʊnloʊd/",
+    "partOfSpeech": "verb",
+    "meaning": "To transfer data from a server or the internet to your local device.",
+    "examples": [
+      "He downloaded the app from the official store onto his phone.",
+      "It took only a few seconds to download the PDF file on the high-speed connection."
+    ],
+    "synonyms": [
+      "install",
+      "fetch",
+      "retrieve"
+    ],
+    "antonyms": [
+      "upload",
+      "send",
+      "transfer"
+    ],
+    "difficulty": "beginner",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of data flowing 'down' from the internet into your device.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-141",
+    "word": "encryption",
+    "phonetic": "/ɪnˈkrɪpʃən/",
+    "partOfSpeech": "noun",
+    "meaning": "The process of converting data into a coded format to prevent unauthorized access.",
+    "examples": [
+      "End-to-end encryption ensures that only the sender and receiver can read the messages.",
+      "The company uses strong encryption to protect customers' payment details."
+    ],
+    "synonyms": [
+      "encoding",
+      "ciphering",
+      "scrambling"
+    ],
+    "antonyms": [
+      "decryption",
+      "decoding"
+    ],
+    "difficulty": "advanced",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'en-crypt' — putting data in a crypt (hidden underground vault).",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-142",
+    "word": "interface",
+    "phonetic": "/ˈɪntərfeɪs/",
+    "partOfSpeech": "noun",
+    "meaning": "The point of interaction between a user and a computer system, often visual.",
+    "examples": [
+      "The app's clean interface makes it easy for beginners to navigate without confusion.",
+      "The designer improved the user interface so customers could find products more quickly."
+    ],
+    "synonyms": [
+      "UI",
+      "dashboard",
+      "layout"
+    ],
+    "antonyms": [],
+    "difficulty": "intermediate",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Inter' (between) + 'face': the face between you and the machine.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-143",
+    "word": "database",
+    "phonetic": "/ˈdeɪtəbeɪs/",
+    "partOfSpeech": "noun",
+    "meaning": "An organized collection of structured data stored and accessed electronically.",
+    "examples": [
+      "The hospital maintains a database of all patient records and treatment histories.",
+      "She searched the university's database to find previous research papers on the topic."
+    ],
+    "synonyms": [
+      "repository",
+      "data store",
+      "registry"
+    ],
+    "antonyms": [],
+    "difficulty": "intermediate",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "A 'database' is the 'base' or foundation where all your 'data' lives.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-144",
+    "word": "algorithm",
+    "phonetic": "/ˈælɡərɪðəm/",
+    "partOfSpeech": "noun",
+    "meaning": "A set of step-by-step instructions that a computer follows to solve a problem.",
+    "examples": [
+      "Social media platforms use algorithms to decide which posts appear in your feed.",
+      "The sorting algorithm arranged the list of names in alphabetical order within seconds."
+    ],
+    "synonyms": [
+      "procedure",
+      "formula",
+      "process"
+    ],
+    "antonyms": [],
+    "difficulty": "advanced",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Named after mathematician Al-Khwarizmi — a recipe of steps for the computer to follow.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-145",
+    "word": "compatible",
+    "phonetic": "/kəmˈpætɪbəl/",
+    "partOfSpeech": "adjective",
+    "meaning": "Able to work together or be used together without conflict.",
+    "examples": [
+      "Make sure the charger is compatible with your phone before using it.",
+      "The software is compatible with both Windows and Mac operating systems."
+    ],
+    "synonyms": [
+      "suitable",
+      "interoperable",
+      "matching"
+    ],
+    "antonyms": [
+      "incompatible",
+      "conflicting",
+      "mismatched"
+    ],
+    "difficulty": "intermediate",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'compat' (compact/together) — devices that fit together are compatible.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-146",
+    "word": "automate",
+    "phonetic": "/ˈɔːtəmeɪt/",
+    "partOfSpeech": "verb",
+    "meaning": "To make a process operate automatically without manual human input.",
+    "examples": [
+      "The factory automated its assembly line to increase production speed.",
+      "She used a script to automate the repetitive task of renaming hundreds of files."
+    ],
+    "synonyms": [
+      "mechanize",
+      "systematize",
+      "program"
+    ],
+    "antonyms": [
+      "manually operate",
+      "do by hand"
+    ],
+    "difficulty": "intermediate",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Auto = self: to automate is to make something run 'by itself' automatically.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-147",
+    "word": "bandwidth",
+    "phonetic": "/ˈbændwɪdθ/",
+    "partOfSpeech": "noun",
+    "meaning": "The amount of data that can be transmitted over a network connection per unit of time.",
+    "examples": [
+      "Streaming high-quality video requires a lot of bandwidth.",
+      "During peak hours, shared bandwidth can slow down everyone's internet speed."
+    ],
+    "synonyms": [
+      "capacity",
+      "throughput",
+      "data rate"
+    ],
+    "antonyms": [],
+    "difficulty": "advanced",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of a 'band' (pipe) — wider bandwidth means a bigger pipe for more data to flow through.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-148",
+    "word": "artificial",
+    "phonetic": "/ˌɑːrtɪˈfɪʃəl/",
+    "partOfSpeech": "adjective",
+    "meaning": "Made or produced by humans rather than occurring naturally; not real.",
+    "examples": [
+      "Artificial intelligence systems can now generate realistic images from text descriptions.",
+      "The lab used artificial light to simulate daylight conditions for the experiment."
+    ],
+    "synonyms": [
+      "synthetic",
+      "man-made",
+      "simulated"
+    ],
+    "antonyms": [
+      "natural",
+      "genuine",
+      "organic"
+    ],
+    "difficulty": "intermediate",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'artifact' — something made by human artistry, not nature.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-149",
+    "word": "synchronize",
+    "phonetic": "/ˈsɪŋkrənaɪz/",
+    "partOfSpeech": "verb",
+    "meaning": "To cause two or more systems or devices to operate at the same time or match the same data.",
+    "examples": [
+      "The app synchronizes your contacts across all your devices automatically.",
+      "He synchronized his calendar on his phone with the one on his laptop."
+    ],
+    "synonyms": [
+      "sync",
+      "coordinate",
+      "align"
+    ],
+    "antonyms": [
+      "desynchronize",
+      "mismatch",
+      "conflict"
+    ],
+    "difficulty": "advanced",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Syn' (together) + 'chronos' (time): happening at the same time.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-150",
+    "word": "authentication",
+    "phonetic": "/ɔːˌθentɪˈkeɪʃən/",
+    "partOfSpeech": "noun",
+    "meaning": "The process of verifying the identity of a user or device before granting access.",
+    "examples": [
+      "Two-factor authentication adds an extra layer of security beyond just a password.",
+      "Biometric authentication uses fingerprints or facial recognition to verify identity."
+    ],
+    "synonyms": [
+      "verification",
+      "validation",
+      "authorization"
+    ],
+    "antonyms": [
+      "denial",
+      "rejection"
+    ],
+    "difficulty": "advanced",
+    "category": "Technology",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'authentic' — authentication checks if you are genuinely who you claim to be.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-151",
+    "word": "tree",
+    "phonetic": "/triː/",
+    "partOfSpeech": "noun",
+    "meaning": "A tall perennial plant with a woody trunk, branches, and leaves.",
+    "examples": [
+      "The old mango tree in the garden provides shade during the hot summer months.",
+      "They planted a new tree in the park every year on World Environment Day."
+    ],
+    "synonyms": [
+      "plant",
+      "timber",
+      "sapling"
+    ],
+    "antonyms": [],
+    "difficulty": "beginner",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Trees 'stand tall' — think of them as the skyscrapers of the natural world.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-152",
+    "word": "river",
+    "phonetic": "/ˈrɪvər/",
+    "partOfSpeech": "noun",
+    "meaning": "A large natural stream of water flowing toward a sea, lake, or another river.",
+    "examples": [
+      "The children played near the river bank, watching fish swim below the surface.",
+      "Heavy rainfall caused the river to flood the nearby villages overnight."
+    ],
+    "synonyms": [
+      "stream",
+      "waterway",
+      "tributary"
+    ],
+    "antonyms": [],
+    "difficulty": "beginner",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of a river 'running' — rivers are nature's constantly moving highways.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-153",
+    "word": "cloud",
+    "phonetic": "/klaʊd/",
+    "partOfSpeech": "noun",
+    "meaning": "A visible mass of water droplets or ice crystals suspended in the atmosphere.",
+    "examples": [
+      "Dark clouds gathered on the horizon, warning of an approaching storm.",
+      "She lay on the grass, watching fluffy clouds drift lazily across the blue sky."
+    ],
+    "synonyms": [
+      "mist",
+      "vapour",
+      "overcast"
+    ],
+    "antonyms": [
+      "clear sky",
+      "sunshine"
+    ],
+    "difficulty": "beginner",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Clouds 'float' in the sky — the word comes from Old English 'clud' meaning rock or hill.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-154",
+    "word": "flower",
+    "phonetic": "/ˈflaʊər/",
+    "partOfSpeech": "noun",
+    "meaning": "The colourful, often fragrant part of a plant that attracts pollinators.",
+    "examples": [
+      "She picked a bouquet of wild flowers from the meadow for the dinner table.",
+      "The cherry flowers bloom beautifully every spring, turning the trees pink."
+    ],
+    "synonyms": [
+      "blossom",
+      "bloom",
+      "petal"
+    ],
+    "antonyms": [],
+    "difficulty": "beginner",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "A flower 'flowers' (blooms) — the verb and noun share the same root.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-155",
+    "word": "forest",
+    "phonetic": "/ˈfɒrɪst/",
+    "partOfSpeech": "noun",
+    "meaning": "A large area of land covered with trees and undergrowth.",
+    "examples": [
+      "They hiked through the dense forest for hours before reaching the waterfall.",
+      "Tropical rainforests are home to more than half of the world's plant and animal species."
+    ],
+    "synonyms": [
+      "woodland",
+      "jungle",
+      "grove"
+    ],
+    "antonyms": [
+      "desert",
+      "open field",
+      "plain"
+    ],
+    "difficulty": "beginner",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "A forest is full of trees — 'forest' comes from Latin 'forestis' meaning 'outside' (the forest was outside the town).",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-156",
+    "word": "coast",
+    "phonetic": "/koʊst/",
+    "partOfSpeech": "noun",
+    "meaning": "The area where land meets the sea; the shoreline and its surrounding region.",
+    "examples": [
+      "They spent the weekend at the coast, swimming in the sea and walking on the beach.",
+      "Many fishing villages are found along the southern coast of the island."
+    ],
+    "synonyms": [
+      "shoreline",
+      "seaside",
+      "beach"
+    ],
+    "antonyms": [
+      "inland",
+      "interior"
+    ],
+    "difficulty": "beginner",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "The coast is where land 'coasts' into the sea — the meeting point of two worlds.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-157",
+    "word": "weather",
+    "phonetic": "/ˈweðər/",
+    "partOfSpeech": "noun",
+    "meaning": "The atmospheric conditions at a particular place and time, such as temperature, rain, and wind.",
+    "examples": [
+      "The weather forecast predicted heavy showers throughout the afternoon.",
+      "She always checks the weather before planning an outdoor event."
+    ],
+    "synonyms": [
+      "climate",
+      "conditions",
+      "atmosphere"
+    ],
+    "antonyms": [],
+    "difficulty": "beginner",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'whether' — weather makes you wonder 'whether' to bring an umbrella.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-158",
+    "word": "protect",
+    "phonetic": "/prəˈtekt/",
+    "partOfSpeech": "verb",
+    "meaning": "To keep safe from harm, damage, or destruction.",
+    "examples": [
+      "National parks were created to protect rare animals and plants from human interference.",
+      "We must protect our water sources by reducing industrial pollution near rivers."
+    ],
+    "synonyms": [
+      "preserve",
+      "safeguard",
+      "defend"
+    ],
+    "antonyms": [
+      "harm",
+      "damage",
+      "destroy"
+    ],
+    "difficulty": "beginner",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Pro + tect: 'pro' (for) + 'tegere' (to cover) — to cover or shield something for safety.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-159",
+    "word": "wildlife",
+    "phonetic": "/ˈwaɪldlaɪf/",
+    "partOfSpeech": "noun",
+    "meaning": "Animals, birds, and other living organisms that live in natural environments.",
+    "examples": [
+      "The national reserve is home to diverse wildlife including leopards and elephants.",
+      "Urban expansion threatens wildlife by destroying their natural habitats."
+    ],
+    "synonyms": [
+      "fauna",
+      "animals",
+      "creatures"
+    ],
+    "antonyms": [
+      "domesticated animals",
+      "livestock"
+    ],
+    "difficulty": "intermediate",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Wildlife = wild + life: creatures living wild, in their natural state.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-160",
+    "word": "habitat",
+    "phonetic": "/ˈhæbɪtæt/",
+    "partOfSpeech": "noun",
+    "meaning": "The natural environment in which a plant or animal lives and grows.",
+    "examples": [
+      "Coral reefs are the natural habitat of thousands of marine species.",
+      "Deforestation is destroying the habitat of orangutans in Borneo."
+    ],
+    "synonyms": [
+      "environment",
+      "home",
+      "ecosystem"
+    ],
+    "antonyms": [],
+    "difficulty": "intermediate",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'inhabit' — a habitat is the place an animal inhabits (lives in).",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-161",
+    "word": "climate",
+    "phonetic": "/ˈklaɪmɪt/",
+    "partOfSpeech": "noun",
+    "meaning": "The long-term pattern of weather conditions in a specific region.",
+    "examples": [
+      "Sri Lanka has a tropical climate with high humidity and regular rainfall.",
+      "Scientists are studying how climate change will affect crop production in the future."
+    ],
+    "synonyms": [
+      "weather pattern",
+      "environment",
+      "conditions"
+    ],
+    "antonyms": [],
+    "difficulty": "intermediate",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Climate = long-term weather. Weather changes daily; climate changes over decades.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-162",
+    "word": "conserve",
+    "phonetic": "/kənˈsɜːrv/",
+    "partOfSpeech": "verb",
+    "meaning": "To protect and preserve natural resources, wildlife, or the environment.",
+    "examples": [
+      "Turning off lights when leaving a room helps conserve energy.",
+      "The government launched a campaign to conserve the country's endangered coral reefs."
+    ],
+    "synonyms": [
+      "preserve",
+      "protect",
+      "sustain"
+    ],
+    "antonyms": [
+      "waste",
+      "deplete",
+      "destroy"
+    ],
+    "difficulty": "intermediate",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'conservation' — to conserve is to keep something from disappearing.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-163",
+    "word": "species",
+    "phonetic": "/ˈspiːʃiːz/",
+    "partOfSpeech": "noun",
+    "meaning": "A group of living organisms that share common characteristics and can interbreed.",
+    "examples": [
+      "Scientists have discovered hundreds of new plant species in the Amazon rainforest.",
+      "The blue whale is the largest species of animal on Earth."
+    ],
+    "synonyms": [
+      "type",
+      "kind",
+      "genus"
+    ],
+    "antonyms": [],
+    "difficulty": "intermediate",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Species comes from Latin 'specere' (to look at) — a category defined by appearance and traits.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-164",
+    "word": "pollution",
+    "phonetic": "/pəˈluːʃən/",
+    "partOfSpeech": "noun",
+    "meaning": "The introduction of harmful substances into the natural environment.",
+    "examples": [
+      "Air pollution from vehicle emissions is a serious health concern in many cities.",
+      "Plastic pollution in the ocean kills millions of marine animals every year."
+    ],
+    "synonyms": [
+      "contamination",
+      "toxicity",
+      "smog"
+    ],
+    "antonyms": [
+      "cleanliness",
+      "purity"
+    ],
+    "difficulty": "intermediate",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'pollute' — pollution 'pollutes' (dirties) the clean environment.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-165",
+    "word": "renewable",
+    "phonetic": "/rɪˈnjuːəbəl/",
+    "partOfSpeech": "adjective",
+    "meaning": "Describing a natural resource that is replenished naturally and will not run out.",
+    "examples": [
+      "Solar and wind are renewable energy sources that do not produce harmful emissions.",
+      "Switching to renewable energy is one of the most effective ways to fight climate change."
+    ],
+    "synonyms": [
+      "sustainable",
+      "replenishable",
+      "green"
+    ],
+    "antonyms": [
+      "non-renewable",
+      "finite",
+      "depletable"
+    ],
+    "difficulty": "intermediate",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Re + new + able: something that can be made 'new' again repeatedly.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-166",
+    "word": "ecosystem",
+    "phonetic": "/ˈiːkoʊsɪstəm/",
+    "partOfSpeech": "noun",
+    "meaning": "A community of living organisms interacting with each other and their physical environment.",
+    "examples": [
+      "The destruction of a single species can disrupt an entire ecosystem.",
+      "Coral reefs represent one of the most diverse and complex ecosystems on the planet."
+    ],
+    "synonyms": [
+      "biome",
+      "habitat",
+      "environment"
+    ],
+    "antonyms": [],
+    "difficulty": "advanced",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Eco' (home/environment) + 'system': the system of life in a natural home.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-167",
+    "word": "biodiversity",
+    "phonetic": "/ˌbaɪoʊdaɪˈvɜːrsɪti/",
+    "partOfSpeech": "noun",
+    "meaning": "The variety of plant and animal life in a particular habitat or on Earth.",
+    "examples": [
+      "Tropical rainforests have incredible biodiversity, sheltering millions of species.",
+      "Protecting biodiversity is essential for maintaining healthy ecosystems and food chains."
+    ],
+    "synonyms": [
+      "variety of life",
+      "ecological diversity",
+      "species richness"
+    ],
+    "antonyms": [
+      "monoculture",
+      "uniformity"
+    ],
+    "difficulty": "advanced",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Bio' (life) + 'diversity' (variety): the variety of life forms sharing our planet.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-168",
+    "word": "erosion",
+    "phonetic": "/ɪˈroʊʒən/",
+    "partOfSpeech": "noun",
+    "meaning": "The gradual wearing away of rock or soil by natural forces such as wind, water, or ice.",
+    "examples": [
+      "Coastal erosion is slowly shrinking the beach near the town.",
+      "Planting trees on bare hillsides helps prevent soil erosion during heavy rainfall."
+    ],
+    "synonyms": [
+      "wearing away",
+      "degradation",
+      "weathering"
+    ],
+    "antonyms": [
+      "deposition",
+      "accumulation"
+    ],
+    "difficulty": "advanced",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'erode' — water erodes rocks gradually, like time 'eats away' at them.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-169",
+    "word": "sustainable",
+    "phonetic": "/səˈsteɪnəbəl/",
+    "partOfSpeech": "adjective",
+    "meaning": "Able to continue over a long period without damaging the natural environment.",
+    "examples": [
+      "Sustainable farming practices protect soil health for future generations.",
+      "She chose a sustainable brand that uses recycled materials in its packaging."
+    ],
+    "synonyms": [
+      "eco-friendly",
+      "long-term",
+      "viable"
+    ],
+    "antonyms": [
+      "unsustainable",
+      "harmful",
+      "destructive"
+    ],
+    "difficulty": "intermediate",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'sustain' — sustainable means you can sustain (keep going) without harming nature.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-170",
+    "word": "drought",
+    "phonetic": "/draʊt/",
+    "partOfSpeech": "noun",
+    "meaning": "A prolonged period of abnormally low rainfall, leading to water shortage.",
+    "examples": [
+      "The severe drought caused crop failures and food shortages across the region.",
+      "Water reservoirs fell to record lows after three years of drought."
+    ],
+    "synonyms": [
+      "dry spell",
+      "water shortage",
+      "arid period"
+    ],
+    "antonyms": [
+      "flood",
+      "rainfall",
+      "monsoon"
+    ],
+    "difficulty": "intermediate",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Drought rhymes with 'out' — the water is 'out' (gone) during a drought.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-171",
+    "word": "organism",
+    "phonetic": "/ˈɔːrɡənɪzəm/",
+    "partOfSpeech": "noun",
+    "meaning": "Any living thing, including plants, animals, fungi, and microorganisms.",
+    "examples": [
+      "Even tiny organisms like bacteria play an important role in breaking down organic matter.",
+      "The ocean is home to organisms ranging from microscopic plankton to giant whales."
+    ],
+    "synonyms": [
+      "creature",
+      "living thing",
+      "being"
+    ],
+    "antonyms": [],
+    "difficulty": "intermediate",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'organ' — an organism is an 'organized' living system with working organs.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-172",
+    "word": "conservation",
+    "phonetic": "/ˌkɒnsərˈveɪʃən/",
+    "partOfSpeech": "noun",
+    "meaning": "The protection and careful management of natural resources and wildlife.",
+    "examples": [
+      "Wildlife conservation efforts have helped the tiger population recover in some regions.",
+      "Water conservation is especially important during the dry season."
+    ],
+    "synonyms": [
+      "preservation",
+      "protection",
+      "stewardship"
+    ],
+    "antonyms": [
+      "destruction",
+      "exploitation",
+      "depletion"
+    ],
+    "difficulty": "intermediate",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Conservation = 'conserving' nature: keeping it safe for the future.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-173",
+    "word": "adaptation",
+    "phonetic": "/ˌædæpˈteɪʃən/",
+    "partOfSpeech": "noun",
+    "meaning": "A change in an organism that makes it better suited to its environment over time.",
+    "examples": [
+      "The camel's ability to store water is an adaptation for surviving in the desert.",
+      "Over thousands of years, polar bears developed adaptations to live in freezing temperatures."
+    ],
+    "synonyms": [
+      "adjustment",
+      "evolution",
+      "modification"
+    ],
+    "antonyms": [
+      "maladaptation",
+      "inflexibility"
+    ],
+    "difficulty": "advanced",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "To 'adapt' is to change to fit — adaptation is nature's way of solving survival problems.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-174",
+    "word": "photosynthesis",
+    "phonetic": "/ˌfoʊtəˈsɪnθɪsɪs/",
+    "partOfSpeech": "noun",
+    "meaning": "The process by which plants use sunlight, water, and carbon dioxide to produce food and oxygen.",
+    "examples": [
+      "Without photosynthesis, plants could not produce the oxygen that all animals breathe.",
+      "During our biology lesson, we learned how leaves use chlorophyll for photosynthesis."
+    ],
+    "synonyms": [
+      "carbon fixation",
+      "plant respiration"
+    ],
+    "antonyms": [],
+    "difficulty": "advanced",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Photo' (light) + 'synthesis' (making): plants making food from light.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-175",
+    "word": "reforestation",
+    "phonetic": "/ˌriːˌfɒrɪˈsteɪʃən/",
+    "partOfSpeech": "noun",
+    "meaning": "The process of replanting trees in areas where forests have been cut down or destroyed.",
+    "examples": [
+      "The government launched a reforestation programme to restore deforested hillsides.",
+      "Reforestation helps reduce carbon dioxide in the atmosphere and restore wildlife habitats."
+    ],
+    "synonyms": [
+      "replanting",
+      "afforestation",
+      "tree restoration"
+    ],
+    "antonyms": [
+      "deforestation",
+      "logging",
+      "clear-cutting"
+    ],
+    "difficulty": "advanced",
+    "category": "Nature",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Re' (again) + 'forestation' (planting forests): planting forests again where they were lost.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-176",
+    "word": "water",
+    "phonetic": "/ˈwɔːtər/",
+    "partOfSpeech": "noun",
+    "meaning": "A clear, odourless liquid essential for all living things; H₂O.",
+    "examples": [
+      "Doctors recommend drinking at least eight glasses of water every day.",
+      "After the long run, she was exhausted and needed water to stay hydrated."
+    ],
+    "synonyms": [
+      "fluid",
+      "liquid",
+      "H2O"
+    ],
+    "antonyms": [],
+    "difficulty": "beginner",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Water = life. The human body is about 60% water — it is the most essential nutrient.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-177",
+    "word": "sleep",
+    "phonetic": "/sliːp/",
+    "partOfSpeech": "noun",
+    "meaning": "A naturally recurring state of rest for the mind and body, essential for health.",
+    "examples": [
+      "Getting at least seven hours of sleep each night improves concentration and mood.",
+      "He felt exhausted all week because stress was disrupting his sleep."
+    ],
+    "synonyms": [
+      "rest",
+      "slumber",
+      "repose"
+    ],
+    "antonyms": [
+      "wakefulness",
+      "insomnia",
+      "alertness"
+    ],
+    "difficulty": "beginner",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of sleep as your body's 'reboot' — just like a computer needs a restart, so does your brain.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-178",
+    "word": "exercise",
+    "phonetic": "/ˈeksərsaɪz/",
+    "partOfSpeech": "noun",
+    "meaning": "Physical activity done to improve health and maintain fitness.",
+    "examples": [
+      "Regular exercise helps reduce the risk of heart disease and diabetes.",
+      "She goes for a 30-minute walk every morning as part of her daily exercise routine."
+    ],
+    "synonyms": [
+      "workout",
+      "physical activity",
+      "training"
+    ],
+    "antonyms": [
+      "inactivity",
+      "sedentary lifestyle",
+      "rest"
+    ],
+    "difficulty": "beginner",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Exercise 'exerts' your body — think of it as putting your muscles to work.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-179",
+    "word": "healthy",
+    "phonetic": "/ˈhelθi/",
+    "partOfSpeech": "adjective",
+    "meaning": "Having or showing good physical and mental wellbeing.",
+    "examples": [
+      "Eating a healthy diet with plenty of vegetables and fruit improves your energy levels.",
+      "The doctor confirmed that her blood pressure was in the healthy range."
+    ],
+    "synonyms": [
+      "fit",
+      "well",
+      "vigorous"
+    ],
+    "antonyms": [
+      "unhealthy",
+      "sick",
+      "unwell"
+    ],
+    "difficulty": "beginner",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'health' + '-y': something that contributes to or shows good health.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-180",
+    "word": "energy",
+    "phonetic": "/ˈenərdʒi/",
+    "partOfSpeech": "noun",
+    "meaning": "The physical and mental strength needed to perform activities and stay alert.",
+    "examples": [
+      "She didn't have enough energy to finish her assignment after skipping lunch.",
+      "A balanced breakfast gives your body the energy it needs to get through the morning."
+    ],
+    "synonyms": [
+      "vitality",
+      "strength",
+      "stamina"
+    ],
+    "antonyms": [
+      "fatigue",
+      "exhaustion",
+      "lethargy"
+    ],
+    "difficulty": "beginner",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Energy comes from Greek 'energeia' (activity) — the fuel that keeps you active.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-181",
+    "word": "rest",
+    "phonetic": "/rest/",
+    "partOfSpeech": "noun",
+    "meaning": "A period of relaxation or inactivity to recover strength and energy.",
+    "examples": [
+      "The doctor advised her to take two days of complete rest after the minor surgery.",
+      "Even on busy days, taking a short rest in the afternoon improves afternoon productivity."
+    ],
+    "synonyms": [
+      "relaxation",
+      "break",
+      "repose"
+    ],
+    "antonyms": [
+      "activity",
+      "work",
+      "exertion"
+    ],
+    "difficulty": "beginner",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'rest' as your body pressing 'pause' — it restores what effort uses up.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-182",
+    "word": "medicine",
+    "phonetic": "/ˈmedɪsɪn/",
+    "partOfSpeech": "noun",
+    "meaning": "A substance used to treat or prevent illness, or the science of diagnosing and treating disease.",
+    "examples": [
+      "She took her medicine exactly as the doctor prescribed, twice a day after meals.",
+      "He is studying medicine at university and hopes to become a paediatrician."
+    ],
+    "synonyms": [
+      "medication",
+      "drug",
+      "remedy"
+    ],
+    "antonyms": [
+      "poison",
+      "toxin"
+    ],
+    "difficulty": "beginner",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'medic' — medicine is what a medic uses to heal you.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-183",
+    "word": "symptom",
+    "phonetic": "/ˈsɪmptəm/",
+    "partOfSpeech": "noun",
+    "meaning": "A sign or indication of a disease or health problem experienced by a patient.",
+    "examples": [
+      "Common symptoms of the flu include fever, headache, and muscle aches.",
+      "She visited the clinic as soon as she noticed symptoms of an ear infection."
+    ],
+    "synonyms": [
+      "sign",
+      "indication",
+      "warning"
+    ],
+    "antonyms": [],
+    "difficulty": "intermediate",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "A symptom 'signals' a problem — it is your body's way of sending a message.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-184",
+    "word": "breathe",
+    "phonetic": "/briːð/",
+    "partOfSpeech": "verb",
+    "meaning": "To take air into the lungs and release it, sustaining life.",
+    "examples": [
+      "During meditation, focus on how you breathe — slow, deep breaths calm the mind.",
+      "It was difficult to breathe properly at high altitudes due to the thin air."
+    ],
+    "synonyms": [
+      "inhale",
+      "exhale",
+      "respire"
+    ],
+    "antonyms": [],
+    "difficulty": "beginner",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Notice 'breathe' has an 'e' at the end — that's the verb. 'Breath' (no 'e') is the noun.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-185",
+    "word": "patient",
+    "phonetic": "/ˈpeɪʃənt/",
+    "partOfSpeech": "noun",
+    "meaning": "A person receiving medical treatment or care from a healthcare professional.",
+    "examples": [
+      "The doctor spent extra time with each patient to explain their diagnosis clearly.",
+      "As a patient, you have the right to ask questions about your treatment options."
+    ],
+    "synonyms": [
+      "case",
+      "client",
+      "individual"
+    ],
+    "antonyms": [],
+    "difficulty": "beginner",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "A patient must often be 'patient' (adjective: calm and waiting) while receiving care.",
+    "level": "Beginner",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-186",
+    "word": "balance",
+    "phonetic": "/ˈbæləns/",
+    "partOfSpeech": "noun",
+    "meaning": "A state of physical or mental stability; having the right proportions of different elements.",
+    "examples": [
+      "Maintaining a healthy work-life balance is important for long-term wellbeing.",
+      "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals."
+    ],
+    "synonyms": [
+      "equilibrium",
+      "stability",
+      "harmony"
+    ],
+    "antonyms": [
+      "imbalance",
+      "excess",
+      "deficiency"
+    ],
+    "difficulty": "intermediate",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Picture a weighing scale — balance means both sides are equal, nothing is too much or too little.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-187",
+    "word": "nutrition",
+    "phonetic": "/njuːˈtrɪʃən/",
+    "partOfSpeech": "noun",
+    "meaning": "The process of obtaining food needed for health and growth.",
+    "examples": [
+      "Good nutrition during childhood is essential for healthy brain and body development.",
+      "She studied nutrition to understand how different foods affect the body."
+    ],
+    "synonyms": [
+      "diet",
+      "nourishment",
+      "sustenance"
+    ],
+    "antonyms": [
+      "malnutrition",
+      "starvation"
+    ],
+    "difficulty": "intermediate",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'nutrient' — nutrition is about getting the right nutrients into your body.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-188",
+    "word": "recover",
+    "phonetic": "/rɪˈkʌvər/",
+    "partOfSpeech": "verb",
+    "meaning": "To return to a normal state of health after illness or injury.",
+    "examples": [
+      "It took her two weeks to fully recover from the flu.",
+      "With plenty of rest and good nutrition, most patients recover quickly from minor surgery."
+    ],
+    "synonyms": [
+      "heal",
+      "recuperate",
+      "bounce back"
+    ],
+    "antonyms": [
+      "worsen",
+      "deteriorate",
+      "relapse"
+    ],
+    "difficulty": "intermediate",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Re + cover: to 're-cover' yourself — getting back the health that illness took away.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-189",
+    "word": "prevent",
+    "phonetic": "/prɪˈvent/",
+    "partOfSpeech": "verb",
+    "meaning": "To stop something, especially illness or harm, from happening.",
+    "examples": [
+      "Washing your hands regularly is one of the simplest ways to prevent the spread of germs.",
+      "Wearing sunscreen can prevent skin damage caused by harmful UV rays."
+    ],
+    "synonyms": [
+      "avoid",
+      "stop",
+      "protect against"
+    ],
+    "antonyms": [
+      "allow",
+      "cause",
+      "enable"
+    ],
+    "difficulty": "intermediate",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Pre' (before) + 'vent': to stop something before it even starts.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-190",
+    "word": "hydration",
+    "phonetic": "/haɪˈdreɪʃən/",
+    "partOfSpeech": "noun",
+    "meaning": "The process of supplying adequate water to the body to maintain proper function.",
+    "examples": [
+      "Proper hydration is crucial during exercise to avoid cramps and dizziness.",
+      "He kept a water bottle at his desk to remind himself to maintain good hydration throughout the day."
+    ],
+    "synonyms": [
+      "fluid intake",
+      "water balance",
+      "moisturisation"
+    ],
+    "antonyms": [
+      "dehydration",
+      "dryness"
+    ],
+    "difficulty": "intermediate",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Hydro' means water in Greek — hydration is keeping your body full of water.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-191",
+    "word": "immune",
+    "phonetic": "/ɪˈmjuːn/",
+    "partOfSpeech": "adjective",
+    "meaning": "Protected against or resistant to a particular disease or infection.",
+    "examples": [
+      "After recovering from chickenpox, the body becomes immune to future infections.",
+      "Vaccines help people become immune to serious diseases without having to get sick first."
+    ],
+    "synonyms": [
+      "resistant",
+      "protected",
+      "invulnerable"
+    ],
+    "antonyms": [
+      "vulnerable",
+      "susceptible",
+      "exposed"
+    ],
+    "difficulty": "intermediate",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of your immune system as your personal army — it fights off invading germs.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-192",
+    "word": "wellness",
+    "phonetic": "/ˈwelnəs/",
+    "partOfSpeech": "noun",
+    "meaning": "The active pursuit of activities and choices that lead to holistic health.",
+    "examples": [
+      "Many companies now offer wellness programmes to support employees' mental health.",
+      "Wellness is not just the absence of illness — it also includes emotional and social wellbeing."
+    ],
+    "synonyms": [
+      "wellbeing",
+      "health",
+      "vitality"
+    ],
+    "antonyms": [
+      "illness",
+      "sickness",
+      "disease"
+    ],
+    "difficulty": "intermediate",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Wellness = well + ness: the state of being 'well' in every area of life.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-193",
+    "word": "diagnose",
+    "phonetic": "/ˈdaɪəɡnoʊz/",
+    "partOfSpeech": "verb",
+    "meaning": "To identify the nature of a disease or condition by examining symptoms.",
+    "examples": [
+      "The doctor was able to diagnose the infection from the blood test results.",
+      "It can be difficult to diagnose mental health conditions without a thorough assessment."
+    ],
+    "synonyms": [
+      "identify",
+      "detect",
+      "determine"
+    ],
+    "antonyms": [],
+    "difficulty": "advanced",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Dia' (through) + 'gnosis' (knowledge): gaining knowledge through thorough examination.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-194",
+    "word": "therapy",
+    "phonetic": "/ˈθerəpi/",
+    "partOfSpeech": "noun",
+    "meaning": "Treatment intended to relieve or cure a disorder, whether physical or mental.",
+    "examples": [
+      "She began attending weekly therapy sessions to manage anxiety.",
+      "Physical therapy helped him regain strength in his knee after the surgery."
+    ],
+    "synonyms": [
+      "treatment",
+      "counselling",
+      "rehabilitation"
+    ],
+    "antonyms": [],
+    "difficulty": "intermediate",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think of 'therapeutic' — therapy is any treatment that makes you feel better.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-195",
+    "word": "chronic",
+    "phonetic": "/ˈkrɒnɪk/",
+    "partOfSpeech": "adjective",
+    "meaning": "Describing an illness or condition that lasts a long time or recurs persistently.",
+    "examples": [
+      "She lives with chronic back pain that affects her ability to sit for long periods.",
+      "Chronic stress can lead to serious health problems including high blood pressure."
+    ],
+    "synonyms": [
+      "persistent",
+      "long-term",
+      "recurring"
+    ],
+    "antonyms": [
+      "acute",
+      "temporary",
+      "short-term"
+    ],
+    "difficulty": "advanced",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Chrono' means time — a chronic condition is one that stays with you over a long time.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-196",
+    "word": "prescription",
+    "phonetic": "/prɪˈskrɪpʃən/",
+    "partOfSpeech": "noun",
+    "meaning": "An official written instruction by a doctor authorising a patient to receive medicine.",
+    "examples": [
+      "The pharmacist asked for a prescription before dispensing the antibiotics.",
+      "She kept all her prescriptions organised in a folder for reference during check-ups."
+    ],
+    "synonyms": [
+      "order",
+      "instruction",
+      "directive"
+    ],
+    "antonyms": [],
+    "difficulty": "advanced",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Pre' (before) + 'scription' (writing): written instructions prepared before you receive medicine.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-197",
+    "word": "rehabilitation",
+    "phonetic": "/ˌriːhəˌbɪlɪˈteɪʃən/",
+    "partOfSpeech": "noun",
+    "meaning": "The process of restoring someone to full health and normal life after illness or injury.",
+    "examples": [
+      "After the stroke, the patient underwent rehabilitation to relearn basic motor skills.",
+      "Sports rehabilitation helps athletes recover safely and return to peak performance."
+    ],
+    "synonyms": [
+      "recovery",
+      "restoration",
+      "recuperation"
+    ],
+    "antonyms": [
+      "deterioration",
+      "decline"
+    ],
+    "difficulty": "advanced",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Re' (again) + 'habilitate' (make able): making someone capable again after illness.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-198",
+    "word": "preventive",
+    "phonetic": "/prɪˈventɪv/",
+    "partOfSpeech": "adjective",
+    "meaning": "Designed to stop disease or harm before it occurs.",
+    "examples": [
+      "Annual health checks are a preventive measure to catch problems early.",
+      "The government invested in preventive healthcare to reduce hospital admissions."
+    ],
+    "synonyms": [
+      "precautionary",
+      "protective",
+      "proactive"
+    ],
+    "antonyms": [
+      "reactive",
+      "curative"
+    ],
+    "difficulty": "advanced",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Think 'prevent' + '-ive': preventive care acts before an illness can take hold.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-199",
+    "word": "metabolism",
+    "phonetic": "/məˈtæbəlɪzəm/",
+    "partOfSpeech": "noun",
+    "meaning": "The chemical processes in the body that convert food into energy.",
+    "examples": [
+      "Regular exercise can boost your metabolism, helping you burn calories more efficiently.",
+      "Some people have a naturally faster metabolism, which affects how quickly they digest food."
+    ],
+    "synonyms": [
+      "metabolic rate",
+      "energy processing",
+      "biochemistry"
+    ],
+    "antonyms": [],
+    "difficulty": "advanced",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "'Meta' (change) + 'bole' (throwing): metabolism 'throws' your food into energy through chemical changes.",
+    "level": "Advanced",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "id": "word-200",
+    "word": "well-being",
+    "phonetic": "/ˌwel ˈbiːɪŋ/",
+    "partOfSpeech": "noun",
+    "meaning": "A person's overall health, happiness, and comfort — physical, mental, and social.",
+    "examples": [
+      "Looking after your mental well-being is just as important as physical health.",
+      "The school introduced mindfulness classes to support students' emotional well-being."
+    ],
+    "synonyms": [
+      "wellness",
+      "health",
+      "happiness"
+    ],
+    "antonyms": [
+      "misery",
+      "illness",
+      "distress"
+    ],
+    "difficulty": "intermediate",
+    "category": "Health",
+    "isFavorite": false,
+    "isLearned": false,
+    "isCustom": false,
+    "memoryTip": "Well + being: the state of 'being well' in all aspects — body, mind, and spirit.",
+    "level": "Intermediate",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Daily Life",
+    "colour": "#FFAA66",
+    "icon": "sunny-outline"
+  },
+  {
+    "name": "Education",
+    "colour": "#7C5CFC",
+    "icon": "school-outline"
+  },
+  {
+    "name": "Business",
+    "colour": "#5C9BFA",
+    "icon": "briefcase-outline"
+  },
+  {
+    "name": "Travel",
+    "colour": "#2EC4A6",
+    "icon": "airplane-outline"
+  },
+  {
+    "name": "Emotions",
+    "colour": "#FF7AA8",
+    "icon": "heart-outline"
+  },
+  {
+    "name": "Technology",
+    "colour": "#8C79E8",
+    "icon": "hardware-chip-outline"
+  },
+  {
+    "name": "Nature",
+    "colour": "#49B88B",
+    "icon": "leaf-outline"
+  },
+  {
+    "name": "Health",
+    "colour": "#F17B7B",
+    "icon": "fitness-outline"
+  }
+]
