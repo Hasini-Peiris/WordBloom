@@ -217,23 +217,6 @@ npx expo start --web
 
 ---
 
-## 📸 Screenshots
-
-> **To capture screenshots:**
-> 1. Run `npx expo start` and open the app on your device or emulator.
-> 2. Navigate to each screen listed below.
-> 3. Take a screenshot using your device (Power + Volume Down on Android; Power + Home/Side on iOS).
-
-**Recommended screens to screenshot:**
-- Home Screen (Word of the Day visible)
-- Word Library (search bar active, results showing)
-- Word Details (full entry with phonetics and examples)
-- Flashcard (front face showing word)
-- Quiz Screen (question with 4 options visible)
-- Progress Screen (streak counter and quiz history)
-
----
-
 ## 📦 Key Dependencies
 
 | Package | Purpose |
